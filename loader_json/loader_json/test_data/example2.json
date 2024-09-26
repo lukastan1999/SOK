@@ -1,0 +1,45 @@
+[
+  {
+
+    "ime": "name1",
+    "boolean": true,
+    "broj": 232.432,
+
+  },
+
+  {
+
+    "ime": "name2",
+    "boolean": false,
+    "broj": 4324.243,
+
+  },
+
+  {
+
+    "ime": "name3",
+    "boolean": false,
+    "broj": 4324.243,
+    "datum": "2020.7.2",
+
+  },
+
+  {
+
+    "ime": "name4",
+    "boolean": false,
+    "broj": 43,
+
+  },
+
+   {
+
+    "ime": "name5",
+    "boolean": false,
+    "broj": 43,
+
+  }
+
+
+
+]

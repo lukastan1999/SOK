@@ -1,0 +1,19 @@
+{
+  "id1": {
+    "Name": "John",
+    "Children": [
+      {
+        "child1": {
+          "Name": "Mike"
+        },
+        "child2": {
+          "Name": "Lucy"
+        }
+      }
+    ],
+    "Wife": {
+      "Name": "Angie",
+      "zvacu decu, decooooo, busi": ["child1", "child2"]
+    }
+  }
+}
