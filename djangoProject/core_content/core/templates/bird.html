@@ -1,0 +1,227 @@
+{% extends "base.html" %}
+{% block birdView %}
+
+
+    <svg id="svgBird" width="100%" height="100%" >
+<!--
+    {% for vertice in vertices %}
+        <g id='bird_g_{{vertice.Id}}' class="bird">
+            <text x="-2" y="-6">{{vertice.Id}}</text>
+            <circle cx="0" cy="0" r="5px"  id='cvor_{{vertice.Id}}'></circle>
+        </g>
+    {% endfor%}
+-->
+        <use xlink:href="#svgMain" transform="scale(0.2)"/>
+        <!--
+        <g id="rootBird">
+			<g id="linksBird"></g>
+			<g id="nodesBird"></g>
+        </g>-->
+    </svg>
+
+
+    <script>
+    function lapsedZoomFit(ticks, transitionDuration) {
+	for (var i = ticks || 200; i > 0; --i) force.tick();
+	force.stop();
+	zoomFit(undefined, transitionDuration);
+}
+
+function zoomFit(paddingPercent, transitionDuration) {
+	var bounds = root.node().getBBox();
+	var parent = root.node().parentElement;
+	var fullWidth = parent.clientWidth,
+	    fullHeight = parent.clientHeight;
+	var width = bounds.width,
+	    height = bounds.height;
+	var midX = bounds.x + width / 2,
+	    midY = bounds.y + height / 2;
+	if (width == 0 || height == 0) return; // nothing to fit
+	var scale = (paddingPercent || 0.75) / Math.max(width / fullWidth, height / fullHeight);
+	var translate = [fullWidth / 2 - scale * midX, fullHeight / 2 - scale * midY];
+
+	console.trace("zoomFit", translate, scale);
+	root
+		.transition()
+		.duration(transitionDuration || 0) // milliseconds
+		.call(zoom.translate(translate).scale(scale).event);
+}
+
+/*
+    window.onload = function(){
+
+        var zoom = d3.behavior
+            .zoom()
+            .scaleExtent([1/4, 4])
+            .on('zoom.zoom', function () {
+                root.attr('transform',
+                    'translate(' + d3.event.translate + ')'
+                    +   'scale(' + d3.event.scale     + ')');
+            })
+        ;
+
+        //provera dobijenog grafa! Ispis u web konzoli
+        {% for vertice in vertices %}
+
+           console.log(
+            "name: {{vertice.name}} ,"+
+            "Id: {{vertice.Id}}  ,"+
+            "komsije: "+
+            {% for neighbor in vertice.neighbors %}
+             "{{neighbor}} ,"+
+            {%endfor%}
+            "");
+        {% endfor%}
+
+        var nodesBird = {
+
+            {% for vertice in vertices %}
+                "{{vertice.Id}}":{
+                        name:"{{vertice.name}}",
+                        Id:{{vertice.Id}},
+                },
+
+            {% endfor %}
+
+        }
+
+        var linksBird = [
+            {% for vertice in vertices%}
+                {% for neighbor in vertice.neighbors %}
+                    {
+                        source: "{{vertice.Id}}",
+                        target: "{{neighbor}}"
+                    },
+                {% endfor %}
+            {% endfor %}
+
+        ]
+
+        linksBird.forEach(function(link){
+            link.source = nodesBird[link.source];
+            link.target = nodesBird[link.target];
+        });
+
+
+        let sirinaPlatna = parseInt(d3.select("#svgBird").style("width"),10);
+        let visinaPlatna = parseInt(d3.select("#svgBird").style("height"),10);
+
+
+        var force = d3.layout.force() // kreiranje force layout-a
+                .size([sirinaPlatna, visinaPlatna]) // raspoloziv prostor za iscrtavanje
+                .nodes(d3.values(nodesBird)) // dodavanje informacija o cvorovima grafa
+                .links(linksBird) // dodavanje informacije o ivicama grafa
+                .on("tick", tick) // Dogadjaj tick okida se prilikokm svakog koraka simulacije.
+                                  // Tada se poziva dolenavedena "tick" funckija koja koriguje pozicije
+                                  // elemenata grafa.
+                                  // Vise informacija mozete pronaci ovde:
+                                  // https://d3-wiki.readthedocs.io/zh_CN/master/Force-Layout/#tick
+                .linkDistance(60) // duzina ivice grafa
+                .charge(-200) // koliko da se elementi odbijaju (pozitivna vrednost kaze koliko se elementi privlace)
+                .start(); //pokreni simulaciju
+
+
+        var svg2 = d3.select('#svgBird').call(zoom);
+
+
+        var root = svg2.select("#rootBird");
+        var node_group = svg2.select('#nodesBird');
+        var link_group = svg2.select('#linksBird');
+
+        var link = link_group.selectAll('.link')
+                            .data(linksBird)
+                            .enter().append('line')
+                            .attr('class', 'link')
+                            .attr('stroke',"black");
+
+        var node = node_group.selectAll('.node')
+                .data(force.nodes()) //add
+                .enter().append('g')
+                .attr('class', 'node')
+                .attr('id', function(d){return "cvor2_"+d.Id;})
+                .call(force
+                    .drag()
+                    .on('dragstart', function() {
+                        d3.event.sourceEvent.stopPropagation();
+                    })
+                );
+
+
+        d3.selectAll('.node').each(function(d){slozenPrikaz(d);});
+
+        function slozenPrikaz(d){
+          // Funkcija zaduzena za iscrtavanje cvora grafa
+          var duzina=70;
+
+          var textSize=10;
+          var visina=5;
+          visina+=textSize;
+
+          // Iscrtavanje kruga.
+          d3.select("g#cvor2_"+d.Id)
+              .append('circle')
+              .attr('cx',0)
+              .attr('cy',0)
+              .attr('r',5)
+              .attr('fill','green');
+
+
+
+        }
+
+
+        function tick(e) {
+
+            // Korak simulacije koji koriguje pozicije cvorova i ivica grafa.
+
+            // translacija cvorova
+            node.attr("transform", function(d) {
+                return "translate(" + d.x + "," + d.y + ")";
+            })
+                // Omogucavamo interaktivno prevlacenje cvorova.
+                // Vise informacija na
+                // https://d3-wiki.readthedocs.io/zh_CN/master/Force-Layout/#drag
+                .call(force.drag);
+
+            // Korekcija pozicija ivica (linkova)
+            link.attr('x1', function(d) { return d.source.x; })
+                .attr('y1', function(d) { return d.source.y; })
+                .attr('x2', function(d) { return d.target.x; })
+                .attr('y2', function(d) { return d.target.y; });
+
+        }
+
+        lapsedZoomFit(500,0);
+
+        function lapsedZoomFit(ticks, transitionDuration) {
+            for (var i = ticks || 200; i > 0; --i) force.tick();
+            force.stop();
+            zoomFit(0.9, transitionDuration);
+        }
+
+
+        function zoomFit(paddingPercent, transitionDuration) {
+            var bounds = root.node().getBBox();
+            var parent = root.node().parentElement;
+            var fullWidth = parent.clientWidth,
+                fullHeight = parent.clientHeight;
+            var width = bounds.width,
+                height = bounds.height;
+            var midX = bounds.x + width / 2,
+                midY = bounds.y + height / 2;
+            if (width == 0 || height == 0) return; // nothing to fit
+            var scale = (paddingPercent || 0.75) / Math.max(width / fullWidth, height / fullHeight);
+            var translate = [fullWidth / 2 - scale * midX, fullHeight / 2 - scale * midY];
+
+            root
+                .transition()
+                .duration(transitionDuration || 0) // milliseconds
+                .call(zoom.translate(translate).scale(scale).event);
+        }
+    }
+*/
+    </script>
+
+
+
+{% endblock %}

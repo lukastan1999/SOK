@@ -1,0 +1,3307 @@
+{
+    "AD": {
+        "countryName": "Andorra",
+        "continentName": "Europe",
+        "capital": "Andorra la Vella",
+        "population": "77006",
+        "areaInSqKm": "468.0",
+        "languages": "ca",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "FR",
+            "ES"
+        ]
+    },
+    "AE": {
+        "countryName": "United Arab Emirates",
+        "continentName": "Asia",
+        "capital": "Abu Dhabi",
+        "population": "9630959",
+        "areaInSqKm": "82880.0",
+        "languages": "ar-AE,fa,en,hi,ur",
+        "currencyCode": "AED",
+        "neighbours": [
+            "OM",
+            "SA"
+        ]
+    },
+    "AF": {
+        "countryName": "Afghanistan",
+        "continentName": "Asia",
+        "capital": "Kabul",
+        "population": "37172386",
+        "areaInSqKm": "647500.0",
+        "languages": "fa-AF,ps,uz-AF,tk",
+        "currencyCode": "AFN",
+        "neighbours": [
+            "CN",
+            "IR",
+            "PK",
+            "TJ",
+            "TM",
+            "UZ"
+        ]
+    },
+    "AG": {
+        "countryName": "Antigua and Barbuda",
+        "continentName": "North America",
+        "capital": "St John's",
+        "population": "96286",
+        "areaInSqKm": "443.0",
+        "languages": "en-AG",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "AI": {
+        "countryName": "Anguilla",
+        "continentName": "North America",
+        "capital": "The Valley",
+        "population": "13254",
+        "areaInSqKm": "102.0",
+        "languages": "en-AI",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "AL": {
+        "countryName": "Albania",
+        "continentName": "Europe",
+        "capital": "Tirana",
+        "population": "2866376",
+        "areaInSqKm": "28748.0",
+        "languages": "sq,el",
+        "currencyCode": "ALL",
+        "neighbours": [
+            "GR",
+            "XK",
+            "ME",
+            "MK",
+            "RS"
+        ]
+    },
+    "AM": {
+        "countryName": "Armenia",
+        "continentName": "Asia",
+        "capital": "Yerevan",
+        "population": "2951776",
+        "areaInSqKm": "29800.0",
+        "languages": "hy",
+        "currencyCode": "AMD",
+        "neighbours": [
+            "AZ",
+            "GE",
+            "IR",
+            "TR"
+        ]
+    },
+    "AO": {
+        "countryName": "Angola",
+        "continentName": "Africa",
+        "capital": "Luanda",
+        "population": "30809762",
+        "areaInSqKm": "1246700.0",
+        "languages": "pt-AO",
+        "currencyCode": "AOA",
+        "neighbours": [
+            "CG",
+            "CD",
+            "NA",
+            "ZM"
+        ]
+    },
+    "AQ": {
+        "countryName": "Antarctica",
+        "continentName": "Antarctica",
+        "capital": "",
+        "population": "0",
+        "areaInSqKm": "1.4E7",
+        "languages": "",
+        "currencyCode": "",
+        "neighbours": []
+    },
+    "AR": {
+        "countryName": "Argentina",
+        "continentName": "South America",
+        "capital": "Buenos Aires",
+        "population": "44494502",
+        "areaInSqKm": "2766890.0",
+        "languages": "es-AR,en,it,de,fr,gn",
+        "currencyCode": "ARS",
+        "neighbours": [
+            "BO",
+            "BR",
+            "CL",
+            "PY",
+            "UY"
+        ]
+    },
+    "AS": {
+        "countryName": "American Samoa",
+        "continentName": "Oceania",
+        "capital": "Pago Pago",
+        "population": "55465",
+        "areaInSqKm": "199.0",
+        "languages": "en-AS,sm,to",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "AT": {
+        "countryName": "Austria",
+        "continentName": "Europe",
+        "capital": "Vienna",
+        "population": "8847037",
+        "areaInSqKm": "83858.0",
+        "languages": "de-AT,hr,hu,sl",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "CZ",
+            "DE",
+            "HU",
+            "IT",
+            "LI",
+            "SK",
+            "SI",
+            "CH"
+        ]
+    },
+    "AU": {
+        "countryName": "Australia",
+        "continentName": "Oceania",
+        "capital": "Canberra",
+        "population": "24992369",
+        "areaInSqKm": "7686850.0",
+        "languages": "en-AU",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "AW": {
+        "countryName": "Aruba",
+        "continentName": "North America",
+        "capital": "Oranjestad",
+        "population": "105845",
+        "areaInSqKm": "193.0",
+        "languages": "nl-AW,pap,es,en",
+        "currencyCode": "AWG",
+        "neighbours": []
+    },
+    "AX": {
+        "countryName": "Åland",
+        "continentName": "Europe",
+        "capital": "Mariehamn",
+        "population": "26711",
+        "areaInSqKm": "1580.0",
+        "languages": "sv-AX",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "AZ": {
+        "countryName": "Azerbaijan",
+        "continentName": "Asia",
+        "capital": "Baku",
+        "population": "9942334",
+        "areaInSqKm": "86600.0",
+        "languages": "az,ru,hy",
+        "currencyCode": "AZN",
+        "neighbours": [
+            "AM",
+            "GE",
+            "IR",
+            "RU",
+            "TR"
+        ]
+    },
+    "BA": {
+        "countryName": "Bosnia and Herzegovina",
+        "continentName": "Europe",
+        "capital": "Sarajevo",
+        "population": "3323929",
+        "areaInSqKm": "51129.0",
+        "languages": "bs,hr-BA,sr-BA",
+        "currencyCode": "BAM",
+        "neighbours": [
+            "HR",
+            "ME",
+            "RS"
+        ]
+    },
+    "BB": {
+        "countryName": "Barbados",
+        "continentName": "North America",
+        "capital": "Bridgetown",
+        "population": "286641",
+        "areaInSqKm": "431.0",
+        "languages": "en-BB",
+        "currencyCode": "BBD",
+        "neighbours": []
+    },
+    "BD": {
+        "countryName": "Bangladesh",
+        "continentName": "Asia",
+        "capital": "Dhaka",
+        "population": "161356039",
+        "areaInSqKm": "144000.0",
+        "languages": "bn-BD,en",
+        "currencyCode": "BDT",
+        "neighbours": [
+            "IN",
+            "MM"
+        ]
+    },
+    "BE": {
+        "countryName": "Belgium",
+        "continentName": "Europe",
+        "capital": "Brussels",
+        "population": "11422068",
+        "areaInSqKm": "30510.0",
+        "languages": "nl-BE,fr-BE,de-BE",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "FR",
+            "DE",
+            "LU",
+            "NL"
+        ]
+    },
+    "BF": {
+        "countryName": "Burkina Faso",
+        "continentName": "Africa",
+        "capital": "Ouagadougou",
+        "population": "19751535",
+        "areaInSqKm": "274200.0",
+        "languages": "fr-BF,mos",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "BJ",
+            "GH",
+            "CI",
+            "ML",
+            "NE",
+            "TG"
+        ]
+    },
+    "BG": {
+        "countryName": "Bulgaria",
+        "continentName": "Europe",
+        "capital": "Sofia",
+        "population": "7000039",
+        "areaInSqKm": "110910.0",
+        "languages": "bg,tr-BG,rom",
+        "currencyCode": "BGN",
+        "neighbours": [
+            "GR",
+            "MK",
+            "RO",
+            "RS",
+            "TR"
+        ]
+    },
+    "BH": {
+        "countryName": "Bahrain",
+        "continentName": "Asia",
+        "capital": "Manama",
+        "population": "1569439",
+        "areaInSqKm": "665.0",
+        "languages": "ar-BH,en,fa,ur",
+        "currencyCode": "BHD",
+        "neighbours": []
+    },
+    "BI": {
+        "countryName": "Burundi",
+        "continentName": "Africa",
+        "capital": "Gitega",
+        "population": "11175378",
+        "areaInSqKm": "27830.0",
+        "languages": "fr-BI,rn",
+        "currencyCode": "BIF",
+        "neighbours": [
+            "CD",
+            "RW",
+            "TZ"
+        ]
+    },
+    "BJ": {
+        "countryName": "Benin",
+        "continentName": "Africa",
+        "capital": "Porto-Novo",
+        "population": "11485048",
+        "areaInSqKm": "112620.0",
+        "languages": "fr-BJ",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "BF",
+            "NE",
+            "NG",
+            "TG"
+        ]
+    },
+    "BL": {
+        "countryName": "Saint Barthélemy",
+        "continentName": "North America",
+        "capital": "Gustavia",
+        "population": "8450",
+        "areaInSqKm": "21.0",
+        "languages": "fr",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "BM": {
+        "countryName": "Bermuda",
+        "continentName": "North America",
+        "capital": "Hamilton",
+        "population": "63968",
+        "areaInSqKm": "53.0",
+        "languages": "en-BM,pt",
+        "currencyCode": "BMD",
+        "neighbours": []
+    },
+    "BN": {
+        "countryName": "Brunei",
+        "continentName": "Asia",
+        "capital": "Bandar Seri Begawan",
+        "population": "428962",
+        "areaInSqKm": "5770.0",
+        "languages": "ms-BN,en-BN",
+        "currencyCode": "BND",
+        "neighbours": [
+            "MY"
+        ]
+    },
+    "BO": {
+        "countryName": "Bolivia",
+        "continentName": "South America",
+        "capital": "Sucre",
+        "population": "11353142",
+        "areaInSqKm": "1098580.0",
+        "languages": "es-BO,qu,ay",
+        "currencyCode": "BOB",
+        "neighbours": [
+            "AR",
+            "BR",
+            "CL",
+            "PY",
+            "PE"
+        ]
+    },
+    "BQ": {
+        "countryName": "Bonaire, Sint Eustatius, and Saba",
+        "continentName": "North America",
+        "capital": "Kralendijk",
+        "population": "18012",
+        "areaInSqKm": "328.0",
+        "languages": "nl,pap,en",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "BR": {
+        "countryName": "Brazil",
+        "continentName": "South America",
+        "capital": "Brasília",
+        "population": "209469333",
+        "areaInSqKm": "8511965.0",
+        "languages": "pt-BR,es,en,fr",
+        "currencyCode": "BRL",
+        "neighbours": [
+            "AR",
+            "BO",
+            "CO",
+            "GF",
+            "GY",
+            "PY",
+            "PE",
+            "SR",
+            "UY",
+            "VE"
+        ]
+    },
+    "BS": {
+        "countryName": "Bahamas",
+        "continentName": "North America",
+        "capital": "Nassau",
+        "population": "385640",
+        "areaInSqKm": "13940.0",
+        "languages": "en-BS",
+        "currencyCode": "BSD",
+        "neighbours": []
+    },
+    "BT": {
+        "countryName": "Bhutan",
+        "continentName": "Asia",
+        "capital": "Thimphu",
+        "population": "754394",
+        "areaInSqKm": "47000.0",
+        "languages": "dz",
+        "currencyCode": "BTN",
+        "neighbours": [
+            "CN",
+            "IN"
+        ]
+    },
+    "BV": {
+        "countryName": "Bouvet Island",
+        "continentName": "Antarctica",
+        "capital": "",
+        "population": "0",
+        "areaInSqKm": "49.0",
+        "languages": "",
+        "currencyCode": "NOK",
+        "neighbours": []
+    },
+    "BW": {
+        "countryName": "Botswana",
+        "continentName": "Africa",
+        "capital": "Gaborone",
+        "population": "2254126",
+        "areaInSqKm": "600370.0",
+        "languages": "en-BW,tn-BW",
+        "currencyCode": "BWP",
+        "neighbours": [
+            "NA",
+            "ZA",
+            "ZW"
+        ]
+    },
+    "BY": {
+        "countryName": "Belarus",
+        "continentName": "Europe",
+        "capital": "Minsk",
+        "population": "9485386",
+        "areaInSqKm": "207600.0",
+        "languages": "be,ru",
+        "currencyCode": "BYN",
+        "neighbours": [
+            "LV",
+            "LT",
+            "PL",
+            "RU",
+            "UA"
+        ]
+    },
+    "BZ": {
+        "countryName": "Belize",
+        "continentName": "North America",
+        "capital": "Belmopan",
+        "population": "383071",
+        "areaInSqKm": "22966.0",
+        "languages": "en-BZ,es",
+        "currencyCode": "BZD",
+        "neighbours": [
+            "GT",
+            "MX"
+        ]
+    },
+    "CA": {
+        "countryName": "Canada",
+        "continentName": "North America",
+        "capital": "Ottawa",
+        "population": "37058856",
+        "areaInSqKm": "9984670.0",
+        "languages": "en-CA,fr-CA,iu",
+        "currencyCode": "CAD",
+        "neighbours": [
+            "US"
+        ]
+    },
+    "CC": {
+        "countryName": "Cocos (Keeling) Islands",
+        "continentName": "Asia",
+        "capital": "West Island",
+        "population": "628",
+        "areaInSqKm": "14.0",
+        "languages": "ms-CC,en",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "CD": {
+        "countryName": "DR Congo",
+        "continentName": "Africa",
+        "capital": "Kinshasa",
+        "population": "84068091",
+        "areaInSqKm": "2345410.0",
+        "languages": "fr-CD,ln,ktu,kg,sw,lua",
+        "currencyCode": "CDF",
+        "neighbours": [
+            "AO",
+            "BI",
+            "CF",
+            "CG",
+            "RW",
+            "SS",
+            "TZ",
+            "UG",
+            "ZM"
+        ]
+    },
+    "CF": {
+        "countryName": "Central African Republic",
+        "continentName": "Africa",
+        "capital": "Bangui",
+        "population": "4666377",
+        "areaInSqKm": "622984.0",
+        "languages": "fr-CF,sg,ln,kg",
+        "currencyCode": "XAF",
+        "neighbours": [
+            "CM",
+            "TD",
+            "CG",
+            "CD",
+            "SS",
+            "SD"
+        ]
+    },
+    "CG": {
+        "countryName": "Congo Republic",
+        "continentName": "Africa",
+        "capital": "Brazzaville",
+        "population": "5244363",
+        "areaInSqKm": "342000.0",
+        "languages": "fr-CG,kg,ln-CG",
+        "currencyCode": "XAF",
+        "neighbours": [
+            "AO",
+            "CM",
+            "CF",
+            "CD",
+            "GA"
+        ]
+    },
+    "CH": {
+        "countryName": "Switzerland",
+        "continentName": "Europe",
+        "capital": "Bern",
+        "population": "8516543",
+        "areaInSqKm": "41290.0",
+        "languages": "de-CH,fr-CH,it-CH,rm",
+        "currencyCode": "CHF",
+        "neighbours": [
+            "AT",
+            "FR",
+            "DE",
+            "IT",
+            "LI"
+        ]
+    },
+    "CI": {
+        "countryName": "Ivory Coast",
+        "continentName": "Africa",
+        "capital": "Yamoussoukro",
+        "population": "25069229",
+        "areaInSqKm": "322460.0",
+        "languages": "fr-CI",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "BF",
+            "GH",
+            "GN",
+            "LR",
+            "ML"
+        ]
+    },
+    "CK": {
+        "countryName": "Cook Islands",
+        "continentName": "Oceania",
+        "capital": "Avarua",
+        "population": "21388",
+        "areaInSqKm": "240.0",
+        "languages": "en-CK,mi",
+        "currencyCode": "NZD",
+        "neighbours": []
+    },
+    "CL": {
+        "countryName": "Chile",
+        "continentName": "South America",
+        "capital": "Santiago",
+        "population": "18729160",
+        "areaInSqKm": "756950.0",
+        "languages": "es-CL",
+        "currencyCode": "CLP",
+        "neighbours": [
+            "AR",
+            "BO",
+            "PE"
+        ]
+    },
+    "CM": {
+        "countryName": "Cameroon",
+        "continentName": "Africa",
+        "capital": "Yaoundé",
+        "population": "25216237",
+        "areaInSqKm": "475440.0",
+        "languages": "en-CM,fr-CM",
+        "currencyCode": "XAF",
+        "neighbours": [
+            "CF",
+            "TD",
+            "CG",
+            "GQ",
+            "GA",
+            "NG"
+        ]
+    },
+    "CN": {
+        "countryName": "China",
+        "continentName": "Asia",
+        "capital": "Beijing",
+        "population": "1392730000",
+        "areaInSqKm": "9596960.0",
+        "languages": "zh-CN,yue,wuu,dta,ug,za",
+        "currencyCode": "CNY",
+        "neighbours": [
+            "AF",
+            "BT",
+            "IN",
+            "KZ",
+            "KG",
+            "LA",
+            "MN",
+            "MM",
+            "NP",
+            "KP",
+            "PK",
+            "RU",
+            "TJ",
+            "VN"
+        ]
+    },
+    "CO": {
+        "countryName": "Colombia",
+        "continentName": "South America",
+        "capital": "Bogotá",
+        "population": "49648685",
+        "areaInSqKm": "1138910.0",
+        "languages": "es-CO",
+        "currencyCode": "COP",
+        "neighbours": [
+            "BR",
+            "EC",
+            "PA",
+            "PE",
+            "VE"
+        ]
+    },
+    "CR": {
+        "countryName": "Costa Rica",
+        "continentName": "North America",
+        "capital": "San José",
+        "population": "4999441",
+        "areaInSqKm": "51100.0",
+        "languages": "es-CR,en",
+        "currencyCode": "CRC",
+        "neighbours": [
+            "NI",
+            "PA"
+        ]
+    },
+    "CU": {
+        "countryName": "Cuba",
+        "continentName": "North America",
+        "capital": "Havana",
+        "population": "11338138",
+        "areaInSqKm": "110860.0",
+        "languages": "es-CU,pap",
+        "currencyCode": "CUP",
+        "neighbours": [
+            "US"
+        ]
+    },
+    "CV": {
+        "countryName": "Cabo Verde",
+        "continentName": "Africa",
+        "capital": "Praia",
+        "population": "543767",
+        "areaInSqKm": "4033.0",
+        "languages": "pt-CV",
+        "currencyCode": "CVE",
+        "neighbours": []
+    },
+    "CW": {
+        "countryName": "Curaçao",
+        "continentName": "North America",
+        "capital": "Willemstad",
+        "population": "159849",
+        "areaInSqKm": "444.0",
+        "languages": "nl,pap",
+        "currencyCode": "ANG",
+        "neighbours": []
+    },
+    "CX": {
+        "countryName": "Christmas Island",
+        "continentName": "Oceania",
+        "capital": "Flying Fish Cove",
+        "population": "1500",
+        "areaInSqKm": "135.0",
+        "languages": "en,zh,ms-CC",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "CY": {
+        "countryName": "Cyprus",
+        "continentName": "Europe",
+        "capital": "Nicosia",
+        "population": "1189265",
+        "areaInSqKm": "9250.0",
+        "languages": "el-CY,tr-CY,en",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "CZ": {
+        "countryName": "Czechia",
+        "continentName": "Europe",
+        "capital": "Prague",
+        "population": "10625695",
+        "areaInSqKm": "78866.0",
+        "languages": "cs,sk",
+        "currencyCode": "CZK",
+        "neighbours": [
+            "AT",
+            "DE",
+            "PL",
+            "SK"
+        ]
+    },
+    "DE": {
+        "countryName": "Germany",
+        "continentName": "Europe",
+        "capital": "Berlin",
+        "population": "82927922",
+        "areaInSqKm": "357021.0",
+        "languages": "de",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AT",
+            "BE",
+            "CZ",
+            "DK",
+            "FR",
+            "LU",
+            "NL",
+            "PL",
+            "CH"
+        ]
+    },
+    "DJ": {
+        "countryName": "Djibouti",
+        "continentName": "Africa",
+        "capital": "Djibouti",
+        "population": "958920",
+        "areaInSqKm": "23000.0",
+        "languages": "fr-DJ,ar,so-DJ,aa",
+        "currencyCode": "DJF",
+        "neighbours": [
+            "ER",
+            "ET",
+            "SO"
+        ]
+    },
+    "DK": {
+        "countryName": "Denmark",
+        "continentName": "Europe",
+        "capital": "Copenhagen",
+        "population": "5797446",
+        "areaInSqKm": "43094.0",
+        "languages": "da-DK,en,fo,de-DK",
+        "currencyCode": "DKK",
+        "neighbours": [
+            "DE"
+        ]
+    },
+    "DM": {
+        "countryName": "Dominica",
+        "continentName": "North America",
+        "capital": "Roseau",
+        "population": "71625",
+        "areaInSqKm": "754.0",
+        "languages": "en-DM",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "DO": {
+        "countryName": "Dominican Republic",
+        "continentName": "North America",
+        "capital": "Santo Domingo",
+        "population": "10627165",
+        "areaInSqKm": "48730.0",
+        "languages": "es-DO",
+        "currencyCode": "DOP",
+        "neighbours": [
+            "HT"
+        ]
+    },
+    "DZ": {
+        "countryName": "Algeria",
+        "continentName": "Africa",
+        "capital": "Algiers",
+        "population": "42228429",
+        "areaInSqKm": "2381740.0",
+        "languages": "ar-DZ",
+        "currencyCode": "DZD",
+        "neighbours": [
+            "LY",
+            "ML",
+            "MR",
+            "MA",
+            "NE",
+            "TN",
+            "EH"
+        ]
+    },
+    "EC": {
+        "countryName": "Ecuador",
+        "continentName": "South America",
+        "capital": "Quito",
+        "population": "17084357",
+        "areaInSqKm": "283560.0",
+        "languages": "es-EC",
+        "currencyCode": "USD",
+        "neighbours": [
+            "CO",
+            "PE"
+        ]
+    },
+    "EE": {
+        "countryName": "Estonia",
+        "continentName": "Europe",
+        "capital": "Tallinn",
+        "population": "1320884",
+        "areaInSqKm": "45226.0",
+        "languages": "et,ru",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "LV",
+            "RU"
+        ]
+    },
+    "EG": {
+        "countryName": "Egypt",
+        "continentName": "Africa",
+        "capital": "Cairo",
+        "population": "98423595",
+        "areaInSqKm": "1001450.0",
+        "languages": "ar-EG,en,fr",
+        "currencyCode": "EGP",
+        "neighbours": [
+            "IL",
+            "LY",
+            "PS",
+            "SD"
+        ]
+    },
+    "EH": {
+        "countryName": "Western Sahara",
+        "continentName": "Africa",
+        "capital": "",
+        "population": "273008",
+        "areaInSqKm": "266000.0",
+        "languages": "ar,mey",
+        "currencyCode": "MAD",
+        "neighbours": []
+    },
+    "ER": {
+        "countryName": "Eritrea",
+        "continentName": "Africa",
+        "capital": "Asmara",
+        "population": "0",
+        "areaInSqKm": "121320.0",
+        "languages": "aa-ER,ar,tig,kun,ti-ER",
+        "currencyCode": "ERN",
+        "neighbours": [
+            "DJ",
+            "ET",
+            "SD"
+        ]
+    },
+    "ES": {
+        "countryName": "Spain",
+        "continentName": "Europe",
+        "capital": "Madrid",
+        "population": "46723749",
+        "areaInSqKm": "504782.0",
+        "languages": "es-ES,ca,gl,eu,oc",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AD",
+            "FR",
+            "GI",
+            "MA",
+            "PT"
+        ]
+    },
+    "ET": {
+        "countryName": "Ethiopia",
+        "continentName": "Africa",
+        "capital": "Addis Ababa",
+        "population": "109224559",
+        "areaInSqKm": "1127127.0",
+        "languages": "am,en-ET,om-ET,ti-ET,so-ET,sid",
+        "currencyCode": "ETB",
+        "neighbours": [
+            "DJ",
+            "ER",
+            "KE",
+            "SO",
+            "SS",
+            "SD"
+        ]
+    },
+    "FI": {
+        "countryName": "Finland",
+        "continentName": "Europe",
+        "capital": "Helsinki",
+        "population": "5518050",
+        "areaInSqKm": "337030.0",
+        "languages": "fi-FI,sv-FI,smn",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "NO",
+            "RU",
+            "SE"
+        ]
+    },
+    "FJ": {
+        "countryName": "Fiji",
+        "continentName": "Oceania",
+        "capital": "Suva",
+        "population": "883483",
+        "areaInSqKm": "18270.0",
+        "languages": "en-FJ,fj",
+        "currencyCode": "FJD",
+        "neighbours": []
+    },
+    "FK": {
+        "countryName": "Falkland Islands",
+        "continentName": "South America",
+        "capital": "Stanley",
+        "population": "2638",
+        "areaInSqKm": "12173.0",
+        "languages": "en-FK",
+        "currencyCode": "FKP",
+        "neighbours": []
+    },
+    "FM": {
+        "countryName": "Micronesia",
+        "continentName": "Oceania",
+        "capital": "Palikir",
+        "population": "112640",
+        "areaInSqKm": "702.0",
+        "languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "FO": {
+        "countryName": "Faroe Islands",
+        "continentName": "Europe",
+        "capital": "Tórshavn",
+        "population": "48497",
+        "areaInSqKm": "1399.0",
+        "languages": "fo,da-FO",
+        "currencyCode": "DKK",
+        "neighbours": []
+    },
+    "FR": {
+        "countryName": "France",
+        "continentName": "Europe",
+        "capital": "Paris",
+        "population": "66987244",
+        "areaInSqKm": "547030.0",
+        "languages": "fr-FR,frp,br,co,ca,eu,oc",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AD",
+            "BE",
+            "DE",
+            "IT",
+            "LU",
+            "MC",
+            "ES",
+            "CH"
+        ]
+    },
+    "GA": {
+        "countryName": "Gabon",
+        "continentName": "Africa",
+        "capital": "Libreville",
+        "population": "2119275",
+        "areaInSqKm": "267667.0",
+        "languages": "fr-GA",
+        "currencyCode": "XAF",
+        "neighbours": [
+            "CM",
+            "CG",
+            "GQ"
+        ]
+    },
+    "GB": {
+        "countryName": "United Kingdom",
+        "continentName": "Europe",
+        "capital": "London",
+        "population": "66488991",
+        "areaInSqKm": "244820.0",
+        "languages": "en-GB,cy-GB,gd",
+        "currencyCode": "GBP",
+        "neighbours": [
+            "IE"
+        ]
+    },
+    "GD": {
+        "countryName": "Grenada",
+        "continentName": "North America",
+        "capital": "St. George's",
+        "population": "111454",
+        "areaInSqKm": "344.0",
+        "languages": "en-GD",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "GE": {
+        "countryName": "Georgia",
+        "continentName": "Asia",
+        "capital": "Tbilisi",
+        "population": "3731000",
+        "areaInSqKm": "69700.0",
+        "languages": "ka,ru,hy,az",
+        "currencyCode": "GEL",
+        "neighbours": [
+            "AM",
+            "AZ",
+            "RU",
+            "TR"
+        ]
+    },
+    "GF": {
+        "countryName": "French Guiana",
+        "continentName": "South America",
+        "capital": "Cayenne",
+        "population": "195506",
+        "areaInSqKm": "91000.0",
+        "languages": "fr-GF",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "BR",
+            "SR"
+        ]
+    },
+    "GG": {
+        "countryName": "Guernsey",
+        "continentName": "Europe",
+        "capital": "St Peter Port",
+        "population": "65228",
+        "areaInSqKm": "78.0",
+        "languages": "en,nrf",
+        "currencyCode": "GBP",
+        "neighbours": []
+    },
+    "GH": {
+        "countryName": "Ghana",
+        "continentName": "Africa",
+        "capital": "Accra",
+        "population": "29767108",
+        "areaInSqKm": "239460.0",
+        "languages": "en-GH,ak,ee,tw",
+        "currencyCode": "GHS",
+        "neighbours": [
+            "BF",
+            "CI",
+            "TG"
+        ]
+    },
+    "GI": {
+        "countryName": "Gibraltar",
+        "continentName": "Europe",
+        "capital": "Gibraltar",
+        "population": "33718",
+        "areaInSqKm": "6.5",
+        "languages": "en-GI,es,it,pt",
+        "currencyCode": "GIP",
+        "neighbours": [
+            "ES"
+        ]
+    },
+    "GL": {
+        "countryName": "Greenland",
+        "continentName": "North America",
+        "capital": "Nuuk",
+        "population": "56025",
+        "areaInSqKm": "2166086.0",
+        "languages": "kl,da-GL,en",
+        "currencyCode": "DKK",
+        "neighbours": []
+    },
+    "GM": {
+        "countryName": "The Gambia",
+        "continentName": "Africa",
+        "capital": "Banjul",
+        "population": "2280102",
+        "areaInSqKm": "11300.0",
+        "languages": "en-GM,mnk,wof,wo,ff",
+        "currencyCode": "GMD",
+        "neighbours": [
+            "SN"
+        ]
+    },
+    "GN": {
+        "countryName": "Guinea",
+        "continentName": "Africa",
+        "capital": "Conakry",
+        "population": "12414318",
+        "areaInSqKm": "245857.0",
+        "languages": "fr-GN",
+        "currencyCode": "GNF",
+        "neighbours": [
+            "GW",
+            "CI",
+            "LR",
+            "ML",
+            "SN",
+            "SL"
+        ]
+    },
+    "GP": {
+        "countryName": "Guadeloupe",
+        "continentName": "North America",
+        "capital": "Basse-Terre",
+        "population": "443000",
+        "areaInSqKm": "1780.0",
+        "languages": "fr-GP",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "GQ": {
+        "countryName": "Equatorial Guinea",
+        "continentName": "Africa",
+        "capital": "Malabo",
+        "population": "1308974",
+        "areaInSqKm": "28051.0",
+        "languages": "es-GQ,fr,pt",
+        "currencyCode": "XAF",
+        "neighbours": [
+            "CM",
+            "GA"
+        ]
+    },
+    "GR": {
+        "countryName": "Greece",
+        "continentName": "Europe",
+        "capital": "Athens",
+        "population": "10727668",
+        "areaInSqKm": "131940.0",
+        "languages": "el-GR,en,fr",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AL",
+            "BG",
+            "MK",
+            "TR"
+        ]
+    },
+    "GS": {
+        "countryName": "South Georgia and South Sandwich Islands",
+        "continentName": "Antarctica",
+        "capital": "Grytviken",
+        "population": "30",
+        "areaInSqKm": "3903.0",
+        "languages": "en",
+        "currencyCode": "GBP",
+        "neighbours": []
+    },
+    "GT": {
+        "countryName": "Guatemala",
+        "continentName": "North America",
+        "capital": "Guatemala City",
+        "population": "17247807",
+        "areaInSqKm": "108890.0",
+        "languages": "es-GT",
+        "currencyCode": "GTQ",
+        "neighbours": [
+            "BZ",
+            "SV",
+            "HN",
+            "MX"
+        ]
+    },
+    "GU": {
+        "countryName": "Guam",
+        "continentName": "Oceania",
+        "capital": "Hagåtña",
+        "population": "165768",
+        "areaInSqKm": "549.0",
+        "languages": "en-GU,ch-GU",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "GW": {
+        "countryName": "Guinea-Bissau",
+        "continentName": "Africa",
+        "capital": "Bissau",
+        "population": "1874309",
+        "areaInSqKm": "36120.0",
+        "languages": "pt-GW,pov",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "GN",
+            "SN"
+        ]
+    },
+    "GY": {
+        "countryName": "Guyana",
+        "continentName": "South America",
+        "capital": "Georgetown",
+        "population": "779004",
+        "areaInSqKm": "214970.0",
+        "languages": "en-GY",
+        "currencyCode": "GYD",
+        "neighbours": [
+            "BR",
+            "SR",
+            "VE"
+        ]
+    },
+    "HK": {
+        "countryName": "Hong Kong",
+        "continentName": "Asia",
+        "capital": "Hong Kong",
+        "population": "7451000",
+        "areaInSqKm": "1092.0",
+        "languages": "zh-HK,yue,zh,en",
+        "currencyCode": "HKD",
+        "neighbours": []
+    },
+    "HM": {
+        "countryName": "Heard and McDonald Islands",
+        "continentName": "Antarctica",
+        "capital": "",
+        "population": "0",
+        "areaInSqKm": "412.0",
+        "languages": "",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "HN": {
+        "countryName": "Honduras",
+        "continentName": "North America",
+        "capital": "Tegucigalpa",
+        "population": "9587522",
+        "areaInSqKm": "112090.0",
+        "languages": "es-HN,cab,miq",
+        "currencyCode": "HNL",
+        "neighbours": [
+            "SV",
+            "GT",
+            "NI"
+        ]
+    },
+    "HR": {
+        "countryName": "Croatia",
+        "continentName": "Europe",
+        "capital": "Zagreb",
+        "population": "4089400",
+        "areaInSqKm": "56542.0",
+        "languages": "hr-HR,sr",
+        "currencyCode": "HRK",
+        "neighbours": [
+            "BA",
+            "HU",
+            "ME",
+            "RS",
+            "SI"
+        ]
+    },
+    "HT": {
+        "countryName": "Haiti",
+        "continentName": "North America",
+        "capital": "Port-au-Prince",
+        "population": "11123176",
+        "areaInSqKm": "27750.0",
+        "languages": "ht,fr-HT",
+        "currencyCode": "HTG",
+        "neighbours": [
+            "DO"
+        ]
+    },
+    "HU": {
+        "countryName": "Hungary",
+        "continentName": "Europe",
+        "capital": "Budapest",
+        "population": "9768785",
+        "areaInSqKm": "93030.0",
+        "languages": "hu-HU",
+        "currencyCode": "HUF",
+        "neighbours": [
+            "AT",
+            "HR",
+            "RO",
+            "RS",
+            "SK",
+            "SI",
+            "UA"
+        ]
+    },
+    "ID": {
+        "countryName": "Indonesia",
+        "continentName": "Asia",
+        "capital": "Jakarta",
+        "population": "267663435",
+        "areaInSqKm": "1919440.0",
+        "languages": "id,en,nl,jv",
+        "currencyCode": "IDR",
+        "neighbours": [
+            "MY",
+            "PG",
+            "TL"
+        ]
+    },
+    "IE": {
+        "countryName": "Ireland",
+        "continentName": "Europe",
+        "capital": "Dublin",
+        "population": "4853506",
+        "areaInSqKm": "70280.0",
+        "languages": "en-IE,ga-IE",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "GB"
+        ]
+    },
+    "IL": {
+        "countryName": "Israel",
+        "continentName": "Asia",
+        "capital": "",
+        "population": "8883800",
+        "areaInSqKm": "20770.0",
+        "languages": "he,ar-IL,en-IL,",
+        "currencyCode": "ILS",
+        "neighbours": [
+            "EG",
+            "JO",
+            "LB",
+            "PS",
+            "SY"
+        ]
+    },
+    "IM": {
+        "countryName": "Isle of Man",
+        "continentName": "Europe",
+        "capital": "Douglas",
+        "population": "84077",
+        "areaInSqKm": "572.0",
+        "languages": "en,gv",
+        "currencyCode": "GBP",
+        "neighbours": []
+    },
+    "IN": {
+        "countryName": "India",
+        "continentName": "Asia",
+        "capital": "New Delhi",
+        "population": "1352617328",
+        "areaInSqKm": "3287590.0",
+        "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+        "currencyCode": "INR",
+        "neighbours": [
+            "BD",
+            "BT",
+            "CN",
+            "MM",
+            "NP",
+            "PK"
+        ]
+    },
+    "IO": {
+        "countryName": "British Indian Ocean Territory",
+        "continentName": "Asia",
+        "capital": "",
+        "population": "4000",
+        "areaInSqKm": "60.0",
+        "languages": "en-IO",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "IQ": {
+        "countryName": "Iraq",
+        "continentName": "Asia",
+        "capital": "Baghdad",
+        "population": "38433600",
+        "areaInSqKm": "437072.0",
+        "languages": "ar-IQ,ku,hy",
+        "currencyCode": "IQD",
+        "neighbours": [
+            "IR",
+            "JO",
+            "KW",
+            "SA",
+            "SY",
+            "TR"
+        ]
+    },
+    "IR": {
+        "countryName": "Iran",
+        "continentName": "Asia",
+        "capital": "Tehran",
+        "population": "81800269",
+        "areaInSqKm": "1648000.0",
+        "languages": "fa-IR,ku",
+        "currencyCode": "IRR",
+        "neighbours": [
+            "AF",
+            "AM",
+            "AZ",
+            "IQ",
+            "PK",
+            "TR",
+            "TM"
+        ]
+    },
+    "IS": {
+        "countryName": "Iceland",
+        "continentName": "Europe",
+        "capital": "Reykjavik",
+        "population": "353574",
+        "areaInSqKm": "103000.0",
+        "languages": "is,en,de,da,sv,no",
+        "currencyCode": "ISK",
+        "neighbours": []
+    },
+    "IT": {
+        "countryName": "Italy",
+        "continentName": "Europe",
+        "capital": "Rome",
+        "population": "60431283",
+        "areaInSqKm": "301230.0",
+        "languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AT",
+            "FR",
+            "SM",
+            "SI",
+            "CH",
+            "VA"
+        ]
+    },
+    "JE": {
+        "countryName": "Jersey",
+        "continentName": "Europe",
+        "capital": "Saint Helier",
+        "population": "90812",
+        "areaInSqKm": "116.0",
+        "languages": "en,fr,nrf",
+        "currencyCode": "GBP",
+        "neighbours": []
+    },
+    "JM": {
+        "countryName": "Jamaica",
+        "continentName": "North America",
+        "capital": "Kingston",
+        "population": "2934855",
+        "areaInSqKm": "10991.0",
+        "languages": "en-JM",
+        "currencyCode": "JMD",
+        "neighbours": []
+    },
+    "JO": {
+        "countryName": "Jordan",
+        "continentName": "Asia",
+        "capital": "Amman",
+        "population": "9956011",
+        "areaInSqKm": "92300.0",
+        "languages": "ar-JO,en",
+        "currencyCode": "JOD",
+        "neighbours": [
+            "IQ",
+            "IL",
+            "PS",
+            "SA",
+            "SY"
+        ]
+    },
+    "JP": {
+        "countryName": "Japan",
+        "continentName": "Asia",
+        "capital": "Tokyo",
+        "population": "126529100",
+        "areaInSqKm": "377835.0",
+        "languages": "ja",
+        "currencyCode": "JPY",
+        "neighbours": []
+    },
+    "KE": {
+        "countryName": "Kenya",
+        "continentName": "Africa",
+        "capital": "Nairobi",
+        "population": "51393010",
+        "areaInSqKm": "582650.0",
+        "languages": "en-KE,sw-KE",
+        "currencyCode": "KES",
+        "neighbours": [
+            "ET",
+            "SO",
+            "SS",
+            "TZ",
+            "UG"
+        ]
+    },
+    "KG": {
+        "countryName": "Kyrgyzstan",
+        "continentName": "Asia",
+        "capital": "Bishkek",
+        "population": "6315800",
+        "areaInSqKm": "198500.0",
+        "languages": "ky,uz,ru",
+        "currencyCode": "KGS",
+        "neighbours": [
+            "CN",
+            "KZ",
+            "TJ",
+            "UZ"
+        ]
+    },
+    "KH": {
+        "countryName": "Cambodia",
+        "continentName": "Asia",
+        "capital": "Phnom Penh",
+        "population": "16249798",
+        "areaInSqKm": "181040.0",
+        "languages": "km,fr,en",
+        "currencyCode": "KHR",
+        "neighbours": [
+            "LA",
+            "TH",
+            "VN"
+        ]
+    },
+    "KI": {
+        "countryName": "Kiribati",
+        "continentName": "Oceania",
+        "capital": "Tarawa",
+        "population": "115847",
+        "areaInSqKm": "811.0",
+        "languages": "en-KI,gil",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "KM": {
+        "countryName": "Comoros",
+        "continentName": "Africa",
+        "capital": "Moroni",
+        "population": "832322",
+        "areaInSqKm": "2170.0",
+        "languages": "ar,fr-KM",
+        "currencyCode": "KMF",
+        "neighbours": []
+    },
+    "KN": {
+        "countryName": "St Kitts and Nevis",
+        "continentName": "North America",
+        "capital": "Basseterre",
+        "population": "52441",
+        "areaInSqKm": "261.0",
+        "languages": "en-KN",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "KP": {
+        "countryName": "North Korea",
+        "continentName": "Asia",
+        "capital": "Pyongyang",
+        "population": "25549819",
+        "areaInSqKm": "120540.0",
+        "languages": "ko-KP",
+        "currencyCode": "KPW",
+        "neighbours": [
+            "CN",
+            "RU",
+            "KR"
+        ]
+    },
+    "KR": {
+        "countryName": "South Korea",
+        "continentName": "Asia",
+        "capital": "Seoul",
+        "population": "51635256",
+        "areaInSqKm": "98480.0",
+        "languages": "ko-KR,en",
+        "currencyCode": "KRW",
+        "neighbours": [
+            "KP"
+        ]
+    },
+    "KW": {
+        "countryName": "Kuwait",
+        "continentName": "Asia",
+        "capital": "Kuwait City",
+        "population": "4137309",
+        "areaInSqKm": "17820.0",
+        "languages": "ar-KW,en",
+        "currencyCode": "KWD",
+        "neighbours": [
+            "IQ",
+            "SA"
+        ]
+    },
+    "KY": {
+        "countryName": "Cayman Islands",
+        "continentName": "North America",
+        "capital": "George Town",
+        "population": "64174",
+        "areaInSqKm": "262.0",
+        "languages": "en-KY",
+        "currencyCode": "KYD",
+        "neighbours": []
+    },
+    "KZ": {
+        "countryName": "Kazakhstan",
+        "continentName": "Asia",
+        "capital": "Nur-Sultan",
+        "population": "18276499",
+        "areaInSqKm": "2717300.0",
+        "languages": "kk,ru",
+        "currencyCode": "KZT",
+        "neighbours": [
+            "CN",
+            "KG",
+            "RU",
+            "TM",
+            "UZ"
+        ]
+    },
+    "LA": {
+        "countryName": "Laos",
+        "continentName": "Asia",
+        "capital": "Vientiane",
+        "population": "7061507",
+        "areaInSqKm": "236800.0",
+        "languages": "lo,fr,en",
+        "currencyCode": "LAK",
+        "neighbours": [
+            "KH",
+            "CN",
+            "MM",
+            "TH",
+            "VN"
+        ]
+    },
+    "LB": {
+        "countryName": "Lebanon",
+        "continentName": "Asia",
+        "capital": "Beirut",
+        "population": "6848925",
+        "areaInSqKm": "10400.0",
+        "languages": "ar-LB,fr-LB,en,hy",
+        "currencyCode": "LBP",
+        "neighbours": [
+            "IL",
+            "SY"
+        ]
+    },
+    "LC": {
+        "countryName": "Saint Lucia",
+        "continentName": "North America",
+        "capital": "Castries",
+        "population": "181889",
+        "areaInSqKm": "616.0",
+        "languages": "en-LC",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "LI": {
+        "countryName": "Liechtenstein",
+        "continentName": "Europe",
+        "capital": "Vaduz",
+        "population": "37910",
+        "areaInSqKm": "160.0",
+        "languages": "de-LI",
+        "currencyCode": "CHF",
+        "neighbours": [
+            "AT",
+            "CH"
+        ]
+    },
+    "LK": {
+        "countryName": "Sri Lanka",
+        "continentName": "Asia",
+        "capital": "Colombo",
+        "population": "21670000",
+        "areaInSqKm": "65610.0",
+        "languages": "si,ta,en",
+        "currencyCode": "LKR",
+        "neighbours": []
+    },
+    "LR": {
+        "countryName": "Liberia",
+        "continentName": "Africa",
+        "capital": "Monrovia",
+        "population": "4818977",
+        "areaInSqKm": "111370.0",
+        "languages": "en-LR",
+        "currencyCode": "LRD",
+        "neighbours": [
+            "GN",
+            "CI",
+            "SL"
+        ]
+    },
+    "LS": {
+        "countryName": "Lesotho",
+        "continentName": "Africa",
+        "capital": "Maseru",
+        "population": "2108132",
+        "areaInSqKm": "30355.0",
+        "languages": "en-LS,st,zu,xh",
+        "currencyCode": "LSL",
+        "neighbours": [
+            "ZA"
+        ]
+    },
+    "LT": {
+        "countryName": "Lithuania",
+        "continentName": "Europe",
+        "capital": "Vilnius",
+        "population": "2789533",
+        "areaInSqKm": "65200.0",
+        "languages": "lt,ru,pl",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "BY",
+            "LV",
+            "PL",
+            "RU"
+        ]
+    },
+    "LU": {
+        "countryName": "Luxembourg",
+        "continentName": "Europe",
+        "capital": "Luxembourg",
+        "population": "607728",
+        "areaInSqKm": "2586.0",
+        "languages": "lb,de-LU,fr-LU",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "BE",
+            "FR",
+            "DE"
+        ]
+    },
+    "LV": {
+        "countryName": "Latvia",
+        "continentName": "Europe",
+        "capital": "Riga",
+        "population": "1926542",
+        "areaInSqKm": "64589.0",
+        "languages": "lv,ru,lt",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "BY",
+            "EE",
+            "LT",
+            "RU"
+        ]
+    },
+    "LY": {
+        "countryName": "Libya",
+        "continentName": "Africa",
+        "capital": "Tripoli",
+        "population": "6678567",
+        "areaInSqKm": "1759540.0",
+        "languages": "ar-LY,it,en",
+        "currencyCode": "LYD",
+        "neighbours": [
+            "DZ",
+            "TD",
+            "EG",
+            "NE",
+            "SD",
+            "TN"
+        ]
+    },
+    "MA": {
+        "countryName": "Morocco",
+        "continentName": "Africa",
+        "capital": "Rabat",
+        "population": "36029138",
+        "areaInSqKm": "446550.0",
+        "languages": "ar-MA,ber,fr",
+        "currencyCode": "MAD",
+        "neighbours": [
+            "DZ",
+            "ES",
+            "EH"
+        ]
+    },
+    "MC": {
+        "countryName": "Monaco",
+        "continentName": "Europe",
+        "capital": "Monaco",
+        "population": "38682",
+        "areaInSqKm": "1.95",
+        "languages": "fr-MC,en,it",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "FR"
+        ]
+    },
+    "MD": {
+        "countryName": "Moldova",
+        "continentName": "Europe",
+        "capital": "Chișinău",
+        "population": "3545883",
+        "areaInSqKm": "33843.0",
+        "languages": "ro,ru,gag,tr",
+        "currencyCode": "MDL",
+        "neighbours": [
+            "RO",
+            "UA"
+        ]
+    },
+    "ME": {
+        "countryName": "Montenegro",
+        "continentName": "Europe",
+        "capital": "Podgorica",
+        "population": "622345",
+        "areaInSqKm": "14026.0",
+        "languages": "sr,hu,bs,sq,hr,rom",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AL",
+            "BA",
+            "HR",
+            "XK",
+            "RS"
+        ]
+    },
+    "MF": {
+        "countryName": "Saint Martin",
+        "continentName": "North America",
+        "capital": "Marigot",
+        "population": "37264",
+        "areaInSqKm": "53.0",
+        "languages": "fr",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "SX"
+        ]
+    },
+    "MG": {
+        "countryName": "Madagascar",
+        "continentName": "Africa",
+        "capital": "Antananarivo",
+        "population": "26262368",
+        "areaInSqKm": "587040.0",
+        "languages": "fr-MG,mg",
+        "currencyCode": "MGA",
+        "neighbours": []
+    },
+    "MH": {
+        "countryName": "Marshall Islands",
+        "continentName": "Oceania",
+        "capital": "Majuro",
+        "population": "58413",
+        "areaInSqKm": "181.3",
+        "languages": "mh,en-MH",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "MK": {
+        "countryName": "North Macedonia",
+        "continentName": "Europe",
+        "capital": "Skopje",
+        "population": "2082958",
+        "areaInSqKm": "25333.0",
+        "languages": "mk,sq,tr,rmm,sr",
+        "currencyCode": "MKD",
+        "neighbours": [
+            "AL",
+            "BG",
+            "GR",
+            "XK",
+            "RS"
+        ]
+    },
+    "ML": {
+        "countryName": "Mali",
+        "continentName": "Africa",
+        "capital": "Bamako",
+        "population": "19077690",
+        "areaInSqKm": "1240000.0",
+        "languages": "fr-ML,bm",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "DZ",
+            "BF",
+            "GN",
+            "CI",
+            "MR",
+            "NE",
+            "SN"
+        ]
+    },
+    "MM": {
+        "countryName": "Myanmar",
+        "continentName": "Asia",
+        "capital": "Nay Pyi Taw",
+        "population": "53708395",
+        "areaInSqKm": "678500.0",
+        "languages": "my",
+        "currencyCode": "MMK",
+        "neighbours": [
+            "BD",
+            "CN",
+            "IN",
+            "LA",
+            "TH"
+        ]
+    },
+    "MN": {
+        "countryName": "Mongolia",
+        "continentName": "Asia",
+        "capital": "Ulaanbaatar",
+        "population": "3170208",
+        "areaInSqKm": "1565000.0",
+        "languages": "mn,ru",
+        "currencyCode": "MNT",
+        "neighbours": [
+            "CN",
+            "RU"
+        ]
+    },
+    "MO": {
+        "countryName": "Macao",
+        "continentName": "Asia",
+        "capital": "Macao",
+        "population": "631636",
+        "areaInSqKm": "254.0",
+        "languages": "zh,zh-MO,pt",
+        "currencyCode": "MOP",
+        "neighbours": []
+    },
+    "MP": {
+        "countryName": "Northern Mariana Islands",
+        "continentName": "Oceania",
+        "capital": "Saipan",
+        "population": "56882",
+        "areaInSqKm": "477.0",
+        "languages": "fil,tl,zh,ch-MP,en-MP",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "MQ": {
+        "countryName": "Martinique",
+        "continentName": "North America",
+        "capital": "Fort-de-France",
+        "population": "432900",
+        "areaInSqKm": "1100.0",
+        "languages": "fr-MQ",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "MR": {
+        "countryName": "Mauritania",
+        "continentName": "Africa",
+        "capital": "Nouakchott",
+        "population": "4403319",
+        "areaInSqKm": "1030700.0",
+        "languages": "ar-MR,fuc,snk,fr,mey,wo",
+        "currencyCode": "MRU",
+        "neighbours": [
+            "DZ",
+            "ML",
+            "SN",
+            "EH"
+        ]
+    },
+    "MS": {
+        "countryName": "Montserrat",
+        "continentName": "North America",
+        "capital": "Plymouth",
+        "population": "9341",
+        "areaInSqKm": "102.0",
+        "languages": "en-MS",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "MT": {
+        "countryName": "Malta",
+        "continentName": "Europe",
+        "capital": "Valletta",
+        "population": "483530",
+        "areaInSqKm": "316.0",
+        "languages": "mt,en-MT",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "MU": {
+        "countryName": "Mauritius",
+        "continentName": "Africa",
+        "capital": "Port Louis",
+        "population": "1265303",
+        "areaInSqKm": "2040.0",
+        "languages": "en-MU,bho,fr",
+        "currencyCode": "MUR",
+        "neighbours": []
+    },
+    "MV": {
+        "countryName": "Maldives",
+        "continentName": "Asia",
+        "capital": "Malé",
+        "population": "515696",
+        "areaInSqKm": "300.0",
+        "languages": "dv,en",
+        "currencyCode": "MVR",
+        "neighbours": []
+    },
+    "MW": {
+        "countryName": "Malawi",
+        "continentName": "Africa",
+        "capital": "Lilongwe",
+        "population": "17563749",
+        "areaInSqKm": "118480.0",
+        "languages": "ny,yao,tum,swk",
+        "currencyCode": "MWK",
+        "neighbours": [
+            "MZ",
+            "TZ",
+            "ZM"
+        ]
+    },
+    "MX": {
+        "countryName": "Mexico",
+        "continentName": "North America",
+        "capital": "Mexico City",
+        "population": "126190788",
+        "areaInSqKm": "1972550.0",
+        "languages": "es-MX",
+        "currencyCode": "MXN",
+        "neighbours": [
+            "BZ",
+            "GT",
+            "US"
+        ]
+    },
+    "MY": {
+        "countryName": "Malaysia",
+        "continentName": "Asia",
+        "capital": "Kuala Lumpur",
+        "population": "31528585",
+        "areaInSqKm": "329750.0",
+        "languages": "ms-MY,en,zh,ta,te,ml,pa,th",
+        "currencyCode": "MYR",
+        "neighbours": [
+            "BN",
+            "ID",
+            "TH"
+        ]
+    },
+    "MZ": {
+        "countryName": "Mozambique",
+        "continentName": "Africa",
+        "capital": "Maputo",
+        "population": "29495962",
+        "areaInSqKm": "801590.0",
+        "languages": "pt-MZ,vmw",
+        "currencyCode": "MZN",
+        "neighbours": [
+            "SZ",
+            "MW",
+            "ZA",
+            "TZ",
+            "ZM",
+            "ZW"
+        ]
+    },
+    "NA": {
+        "countryName": "Namibia",
+        "continentName": "Africa",
+        "capital": "Windhoek",
+        "population": "2448255",
+        "areaInSqKm": "825418.0",
+        "languages": "en-NA,af,de,hz,naq",
+        "currencyCode": "NAD",
+        "neighbours": [
+            "AO",
+            "BW",
+            "ZA",
+            "ZM"
+        ]
+    },
+    "NC": {
+        "countryName": "New Caledonia",
+        "continentName": "Oceania",
+        "capital": "Noumea",
+        "population": "284060",
+        "areaInSqKm": "19060.0",
+        "languages": "fr-NC",
+        "currencyCode": "XPF",
+        "neighbours": []
+    },
+    "NE": {
+        "countryName": "Niger",
+        "continentName": "Africa",
+        "capital": "Niamey",
+        "population": "22442948",
+        "areaInSqKm": "1267000.0",
+        "languages": "fr-NE,ha,kr,dje",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "DZ",
+            "BJ",
+            "BF",
+            "TD",
+            "LY",
+            "ML",
+            "NG"
+        ]
+    },
+    "NF": {
+        "countryName": "Norfolk Island",
+        "continentName": "Oceania",
+        "capital": "Kingston",
+        "population": "1828",
+        "areaInSqKm": "34.6",
+        "languages": "en-NF",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "NG": {
+        "countryName": "Nigeria",
+        "continentName": "Africa",
+        "capital": "Abuja",
+        "population": "195874740",
+        "areaInSqKm": "923768.0",
+        "languages": "en-NG,ha,yo,ig,ff",
+        "currencyCode": "NGN",
+        "neighbours": [
+            "BJ",
+            "CM",
+            "TD",
+            "NE"
+        ]
+    },
+    "NI": {
+        "countryName": "Nicaragua",
+        "continentName": "North America",
+        "capital": "Managua",
+        "population": "6465513",
+        "areaInSqKm": "129494.0",
+        "languages": "es-NI,en",
+        "currencyCode": "NIO",
+        "neighbours": [
+            "CR",
+            "HN"
+        ]
+    },
+    "NL": {
+        "countryName": "Netherlands",
+        "continentName": "Europe",
+        "capital": "Amsterdam",
+        "population": "17231017",
+        "areaInSqKm": "41526.0",
+        "languages": "nl-NL,fy-NL",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "BE",
+            "DE"
+        ]
+    },
+    "NO": {
+        "countryName": "Norway",
+        "continentName": "Europe",
+        "capital": "Oslo",
+        "population": "5314336",
+        "areaInSqKm": "324220.0",
+        "languages": "no,nb,nn,se,fi",
+        "currencyCode": "NOK",
+        "neighbours": [
+            "FI",
+            "RU",
+            "SE"
+        ]
+    },
+    "NP": {
+        "countryName": "Nepal",
+        "continentName": "Asia",
+        "capital": "Kathmandu",
+        "population": "28087871",
+        "areaInSqKm": "140800.0",
+        "languages": "ne,en",
+        "currencyCode": "NPR",
+        "neighbours": [
+            "CN",
+            "IN"
+        ]
+    },
+    "NR": {
+        "countryName": "Nauru",
+        "continentName": "Oceania",
+        "capital": "Yaren District",
+        "population": "12704",
+        "areaInSqKm": "21.0",
+        "languages": "na,en-NR",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "NU": {
+        "countryName": "Niue",
+        "continentName": "Oceania",
+        "capital": "Alofi",
+        "population": "2166",
+        "areaInSqKm": "260.0",
+        "languages": "niu,en-NU",
+        "currencyCode": "NZD",
+        "neighbours": []
+    },
+    "NZ": {
+        "countryName": "New Zealand",
+        "continentName": "Oceania",
+        "capital": "Wellington",
+        "population": "4885500",
+        "areaInSqKm": "268680.0",
+        "languages": "en-NZ,mi",
+        "currencyCode": "NZD",
+        "neighbours": []
+    },
+    "OM": {
+        "countryName": "Oman",
+        "continentName": "Asia",
+        "capital": "Muscat",
+        "population": "4829483",
+        "areaInSqKm": "212460.0",
+        "languages": "ar-OM,en,bal,ur",
+        "currencyCode": "OMR",
+        "neighbours": [
+            "SA",
+            "AE",
+            "YE"
+        ]
+    },
+    "PA": {
+        "countryName": "Panama",
+        "continentName": "North America",
+        "capital": "Panama City",
+        "population": "4176873",
+        "areaInSqKm": "78200.0",
+        "languages": "es-PA,en",
+        "currencyCode": "PAB",
+        "neighbours": [
+            "CO",
+            "CR"
+        ]
+    },
+    "PE": {
+        "countryName": "Peru",
+        "continentName": "South America",
+        "capital": "Lima",
+        "population": "31989256",
+        "areaInSqKm": "1285220.0",
+        "languages": "es-PE,qu,ay",
+        "currencyCode": "PEN",
+        "neighbours": [
+            "BO",
+            "BR",
+            "CL",
+            "CO",
+            "EC"
+        ]
+    },
+    "PF": {
+        "countryName": "French Polynesia",
+        "continentName": "Oceania",
+        "capital": "Papeete",
+        "population": "277679",
+        "areaInSqKm": "4167.0",
+        "languages": "fr-PF,ty",
+        "currencyCode": "XPF",
+        "neighbours": []
+    },
+    "PG": {
+        "countryName": "Papua New Guinea",
+        "continentName": "Oceania",
+        "capital": "Port Moresby",
+        "population": "8606316",
+        "areaInSqKm": "462840.0",
+        "languages": "en-PG,ho,meu,tpi",
+        "currencyCode": "PGK",
+        "neighbours": [
+            "ID"
+        ]
+    },
+    "PH": {
+        "countryName": "Philippines",
+        "continentName": "Asia",
+        "capital": "Manila",
+        "population": "106651922",
+        "areaInSqKm": "300000.0",
+        "languages": "tl,en-PH,fil,ceb,tgl,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
+        "currencyCode": "PHP",
+        "neighbours": []
+    },
+    "PK": {
+        "countryName": "Pakistan",
+        "continentName": "Asia",
+        "capital": "Islamabad",
+        "population": "212215030",
+        "areaInSqKm": "803940.0",
+        "languages": "ur-PK,en-PK,pa,sd,ps,brh",
+        "currencyCode": "PKR",
+        "neighbours": [
+            "AF",
+            "CN",
+            "IN",
+            "IR"
+        ]
+    },
+    "PL": {
+        "countryName": "Poland",
+        "continentName": "Europe",
+        "capital": "Warsaw",
+        "population": "37978548",
+        "areaInSqKm": "312685.0",
+        "languages": "pl",
+        "currencyCode": "PLN",
+        "neighbours": [
+            "BY",
+            "CZ",
+            "DE",
+            "LT",
+            "RU",
+            "SK",
+            "UA"
+        ]
+    },
+    "PM": {
+        "countryName": "Saint Pierre and Miquelon",
+        "continentName": "North America",
+        "capital": "Saint-Pierre",
+        "population": "7012",
+        "areaInSqKm": "242.0",
+        "languages": "fr-PM",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "PN": {
+        "countryName": "Pitcairn Islands",
+        "continentName": "Oceania",
+        "capital": "Adamstown",
+        "population": "46",
+        "areaInSqKm": "47.0",
+        "languages": "en-PN",
+        "currencyCode": "NZD",
+        "neighbours": []
+    },
+    "PR": {
+        "countryName": "Puerto Rico",
+        "continentName": "North America",
+        "capital": "San Juan",
+        "population": "3195153",
+        "areaInSqKm": "9104.0",
+        "languages": "en-PR,es-PR",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "PS": {
+        "countryName": "Palestine",
+        "continentName": "Asia",
+        "capital": "",
+        "population": "4569087",
+        "areaInSqKm": "5970.0",
+        "languages": "ar-PS",
+        "currencyCode": "ILS",
+        "neighbours": [
+            "EG",
+            "IL",
+            "JO"
+        ]
+    },
+    "PT": {
+        "countryName": "Portugal",
+        "continentName": "Europe",
+        "capital": "Lisbon",
+        "population": "10281762",
+        "areaInSqKm": "92391.0",
+        "languages": "pt-PT,mwl",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "ES"
+        ]
+    },
+    "PW": {
+        "countryName": "Palau",
+        "continentName": "Oceania",
+        "capital": "Ngerulmud",
+        "population": "17907",
+        "areaInSqKm": "458.0",
+        "languages": "pau,sov,en-PW,tox,ja,fil,zh",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "PY": {
+        "countryName": "Paraguay",
+        "continentName": "South America",
+        "capital": "Asunción",
+        "population": "6956071",
+        "areaInSqKm": "406750.0",
+        "languages": "es-PY,gn",
+        "currencyCode": "PYG",
+        "neighbours": [
+            "AR",
+            "BO",
+            "BR"
+        ]
+    },
+    "QA": {
+        "countryName": "Qatar",
+        "continentName": "Asia",
+        "capital": "Doha",
+        "population": "2781677",
+        "areaInSqKm": "11437.0",
+        "languages": "ar-QA,es",
+        "currencyCode": "QAR",
+        "neighbours": [
+            "SA"
+        ]
+    },
+    "RE": {
+        "countryName": "Réunion",
+        "continentName": "Africa",
+        "capital": "Saint-Denis",
+        "population": "776948",
+        "areaInSqKm": "2517.0",
+        "languages": "fr-RE",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "RO": {
+        "countryName": "Romania",
+        "continentName": "Europe",
+        "capital": "Bucharest",
+        "population": "19473936",
+        "areaInSqKm": "237500.0",
+        "languages": "ro,hu,rom",
+        "currencyCode": "RON",
+        "neighbours": [
+            "BG",
+            "HU",
+            "MD",
+            "RS",
+            "UA"
+        ]
+    },
+    "RS": {
+        "countryName": "Serbia",
+        "continentName": "Europe",
+        "capital": "Belgrade",
+        "population": "6982084",
+        "areaInSqKm": "88361.0",
+        "languages": "sr,hu,bs,rom",
+        "currencyCode": "RSD",
+        "neighbours": [
+            "AL",
+            "BA",
+            "BG",
+            "HR",
+            "HU",
+            "XK",
+            "ME",
+            "MK",
+            "RO"
+        ]
+    },
+    "RU": {
+        "countryName": "Russia",
+        "continentName": "Europe",
+        "capital": "Moscow",
+        "population": "144478050",
+        "areaInSqKm": "1.71E7",
+        "languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,av,sah,nog",
+        "currencyCode": "RUB",
+        "neighbours": [
+            "AZ",
+            "BY",
+            "CN",
+            "EE",
+            "FI",
+            "GE",
+            "KZ",
+            "LV",
+            "LT",
+            "MN",
+            "KP",
+            "NO",
+            "PL",
+            "UA"
+        ]
+    },
+    "RW": {
+        "countryName": "Rwanda",
+        "continentName": "Africa",
+        "capital": "Kigali",
+        "population": "12301939",
+        "areaInSqKm": "26338.0",
+        "languages": "rw,en-RW,fr-RW,sw",
+        "currencyCode": "RWF",
+        "neighbours": [
+            "BI",
+            "CD",
+            "TZ",
+            "UG"
+        ]
+    },
+    "SA": {
+        "countryName": "Saudi Arabia",
+        "continentName": "Asia",
+        "capital": "Riyadh",
+        "population": "33699947",
+        "areaInSqKm": "1960582.0",
+        "languages": "ar-SA",
+        "currencyCode": "SAR",
+        "neighbours": [
+            "IQ",
+            "JO",
+            "KW",
+            "OM",
+            "QA",
+            "AE",
+            "YE"
+        ]
+    },
+    "SB": {
+        "countryName": "Solomon Islands",
+        "continentName": "Oceania",
+        "capital": "Honiara",
+        "population": "652858",
+        "areaInSqKm": "28450.0",
+        "languages": "en-SB,tpi",
+        "currencyCode": "SBD",
+        "neighbours": []
+    },
+    "SC": {
+        "countryName": "Seychelles",
+        "continentName": "Africa",
+        "capital": "Victoria",
+        "population": "96762",
+        "areaInSqKm": "455.0",
+        "languages": "en-SC,fr-SC",
+        "currencyCode": "SCR",
+        "neighbours": []
+    },
+    "SD": {
+        "countryName": "Sudan",
+        "continentName": "Africa",
+        "capital": "Khartoum",
+        "population": "41801533",
+        "areaInSqKm": "1861484.0",
+        "languages": "ar-SD,en,fia",
+        "currencyCode": "SDG",
+        "neighbours": [
+            "CF",
+            "TD",
+            "EG",
+            "ER",
+            "ET",
+            "LY",
+            "SS"
+        ]
+    },
+    "SE": {
+        "countryName": "Sweden",
+        "continentName": "Europe",
+        "capital": "Stockholm",
+        "population": "10183175",
+        "areaInSqKm": "449964.0",
+        "languages": "sv-SE,se,sma,fi-SE",
+        "currencyCode": "SEK",
+        "neighbours": [
+            "FI",
+            "NO"
+        ]
+    },
+    "SG": {
+        "countryName": "Singapore",
+        "continentName": "Asia",
+        "capital": "Singapore",
+        "population": "5638676",
+        "areaInSqKm": "692.7",
+        "languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
+        "currencyCode": "SGD",
+        "neighbours": []
+    },
+    "SH": {
+        "countryName": "Saint Helena",
+        "continentName": "Africa",
+        "capital": "Jamestown",
+        "population": "7460",
+        "areaInSqKm": "410.0",
+        "languages": "en-SH",
+        "currencyCode": "SHP",
+        "neighbours": []
+    },
+    "SI": {
+        "countryName": "Slovenia",
+        "continentName": "Europe",
+        "capital": "Ljubljana",
+        "population": "2067372",
+        "areaInSqKm": "20273.0",
+        "languages": "sl,sh",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AT",
+            "HR",
+            "HU",
+            "IT"
+        ]
+    },
+    "SJ": {
+        "countryName": "Svalbard and Jan Mayen",
+        "continentName": "Europe",
+        "capital": "Longyearbyen",
+        "population": "2550",
+        "areaInSqKm": "62049.0",
+        "languages": "no,ru",
+        "currencyCode": "NOK",
+        "neighbours": []
+    },
+    "SK": {
+        "countryName": "Slovakia",
+        "continentName": "Europe",
+        "capital": "Bratislava",
+        "population": "5447011",
+        "areaInSqKm": "48845.0",
+        "languages": "sk,hu",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AT",
+            "CZ",
+            "HU",
+            "PL",
+            "UA"
+        ]
+    },
+    "SL": {
+        "countryName": "Sierra Leone",
+        "continentName": "Africa",
+        "capital": "Freetown",
+        "population": "7650154",
+        "areaInSqKm": "71740.0",
+        "languages": "en-SL,men,tem",
+        "currencyCode": "SLL",
+        "neighbours": [
+            "GN",
+            "LR"
+        ]
+    },
+    "SM": {
+        "countryName": "San Marino",
+        "continentName": "Europe",
+        "capital": "San Marino",
+        "population": "33785",
+        "areaInSqKm": "61.2",
+        "languages": "it-SM",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "IT"
+        ]
+    },
+    "SN": {
+        "countryName": "Senegal",
+        "continentName": "Africa",
+        "capital": "Dakar",
+        "population": "15854360",
+        "areaInSqKm": "196190.0",
+        "languages": "fr-SN,wo,fuc,mnk",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "GN",
+            "GW",
+            "ML",
+            "MR",
+            "GM"
+        ]
+    },
+    "SO": {
+        "countryName": "Somalia",
+        "continentName": "Africa",
+        "capital": "Mogadishu",
+        "population": "15008154",
+        "areaInSqKm": "637657.0",
+        "languages": "so-SO,ar-SO,it,en-SO",
+        "currencyCode": "SOS",
+        "neighbours": [
+            "DJ",
+            "ET",
+            "KE"
+        ]
+    },
+    "SR": {
+        "countryName": "Suriname",
+        "continentName": "South America",
+        "capital": "Paramaribo",
+        "population": "575991",
+        "areaInSqKm": "163270.0",
+        "languages": "nl-SR,en,srn,hns,jv",
+        "currencyCode": "SRD",
+        "neighbours": [
+            "BR",
+            "GF",
+            "GY"
+        ]
+    },
+    "SS": {
+        "countryName": "South Sudan",
+        "continentName": "Africa",
+        "capital": "Juba",
+        "population": "8260490",
+        "areaInSqKm": "644329.0",
+        "languages": "en",
+        "currencyCode": "SSP",
+        "neighbours": [
+            "CF",
+            "CD",
+            "ET",
+            "KE",
+            "SD",
+            "UG"
+        ]
+    },
+    "ST": {
+        "countryName": "São Tomé and Príncipe",
+        "continentName": "Africa",
+        "capital": "São Tomé",
+        "population": "197700",
+        "areaInSqKm": "1001.0",
+        "languages": "pt-ST",
+        "currencyCode": "STN",
+        "neighbours": []
+    },
+    "SV": {
+        "countryName": "El Salvador",
+        "continentName": "North America",
+        "capital": "San Salvador",
+        "population": "6420744",
+        "areaInSqKm": "21040.0",
+        "languages": "es-SV",
+        "currencyCode": "USD",
+        "neighbours": [
+            "GT",
+            "HN"
+        ]
+    },
+    "SX": {
+        "countryName": "Sint Maarten",
+        "continentName": "North America",
+        "capital": "Philipsburg",
+        "population": "40654",
+        "areaInSqKm": "21.0",
+        "languages": "nl,en",
+        "currencyCode": "ANG",
+        "neighbours": [
+            "MF"
+        ]
+    },
+    "SY": {
+        "countryName": "Syria",
+        "continentName": "Asia",
+        "capital": "Damascus",
+        "population": "16906283",
+        "areaInSqKm": "185180.0",
+        "languages": "ar-SY,ku,hy,arc,fr,en",
+        "currencyCode": "SYP",
+        "neighbours": [
+            "IQ",
+            "IL",
+            "JO",
+            "LB",
+            "TR"
+        ]
+    },
+    "SZ": {
+        "countryName": "Eswatini",
+        "continentName": "Africa",
+        "capital": "Mbabane",
+        "population": "1136191",
+        "areaInSqKm": "17363.0",
+        "languages": "en-SZ,ss-SZ",
+        "currencyCode": "SZL",
+        "neighbours": [
+            "MZ",
+            "ZA"
+        ]
+    },
+    "TC": {
+        "countryName": "Turks and Caicos Islands",
+        "continentName": "North America",
+        "capital": "Cockburn Town",
+        "population": "37665",
+        "areaInSqKm": "430.0",
+        "languages": "en-TC",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "TD": {
+        "countryName": "Chad",
+        "continentName": "Africa",
+        "capital": "N'Djamena",
+        "population": "15477751",
+        "areaInSqKm": "1284000.0",
+        "languages": "fr-TD,ar-TD,sre",
+        "currencyCode": "XAF",
+        "neighbours": [
+            "CM",
+            "CF",
+            "LY",
+            "NE",
+            "NG",
+            "SD"
+        ]
+    },
+    "TF": {
+        "countryName": "French Southern Territories",
+        "continentName": "Antarctica",
+        "capital": "Port-aux-Français",
+        "population": "140",
+        "areaInSqKm": "7829.0",
+        "languages": "fr",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "TG": {
+        "countryName": "Togo",
+        "continentName": "Africa",
+        "capital": "Lomé",
+        "population": "7889094",
+        "areaInSqKm": "56785.0",
+        "languages": "fr-TG,ee,hna,kbp,dag,ha",
+        "currencyCode": "XOF",
+        "neighbours": [
+            "BJ",
+            "BF",
+            "GH"
+        ]
+    },
+    "TH": {
+        "countryName": "Thailand",
+        "continentName": "Asia",
+        "capital": "Bangkok",
+        "population": "69428524",
+        "areaInSqKm": "514000.0",
+        "languages": "th,en",
+        "currencyCode": "THB",
+        "neighbours": [
+            "KH",
+            "LA",
+            "MY",
+            "MM"
+        ]
+    },
+    "TJ": {
+        "countryName": "Tajikistan",
+        "continentName": "Asia",
+        "capital": "Dushanbe",
+        "population": "9100837",
+        "areaInSqKm": "143100.0",
+        "languages": "tg,ru",
+        "currencyCode": "TJS",
+        "neighbours": [
+            "AF",
+            "CN",
+            "KG",
+            "UZ"
+        ]
+    },
+    "TK": {
+        "countryName": "Tokelau",
+        "continentName": "Oceania",
+        "capital": "",
+        "population": "1466",
+        "areaInSqKm": "10.0",
+        "languages": "tkl,en-TK",
+        "currencyCode": "NZD",
+        "neighbours": []
+    },
+    "TL": {
+        "countryName": "Timor-Leste",
+        "continentName": "Oceania",
+        "capital": "Dili",
+        "population": "1267972",
+        "areaInSqKm": "15007.0",
+        "languages": "tet,pt-TL,id,en",
+        "currencyCode": "USD",
+        "neighbours": [
+            "ID"
+        ]
+    },
+    "TM": {
+        "countryName": "Turkmenistan",
+        "continentName": "Asia",
+        "capital": "Ashgabat",
+        "population": "5850908",
+        "areaInSqKm": "488100.0",
+        "languages": "tk,ru,uz",
+        "currencyCode": "TMT",
+        "neighbours": [
+            "AF",
+            "IR",
+            "KZ",
+            "UZ"
+        ]
+    },
+    "TN": {
+        "countryName": "Tunisia",
+        "continentName": "Africa",
+        "capital": "Tunis",
+        "population": "11565204",
+        "areaInSqKm": "163610.0",
+        "languages": "ar-TN,fr",
+        "currencyCode": "TND",
+        "neighbours": [
+            "DZ",
+            "LY"
+        ]
+    },
+    "TO": {
+        "countryName": "Tonga",
+        "continentName": "Oceania",
+        "capital": "Nuku'alofa",
+        "population": "103197",
+        "areaInSqKm": "748.0",
+        "languages": "to,en-TO",
+        "currencyCode": "TOP",
+        "neighbours": []
+    },
+    "TR": {
+        "countryName": "Turkey",
+        "continentName": "Asia",
+        "capital": "Ankara",
+        "population": "82319724",
+        "areaInSqKm": "780580.0",
+        "languages": "tr-TR,ku,diq,az,av",
+        "currencyCode": "TRY",
+        "neighbours": [
+            "AM",
+            "AZ",
+            "BG",
+            "GE",
+            "GR",
+            "IR",
+            "IQ",
+            "SY"
+        ]
+    },
+    "TT": {
+        "countryName": "Trinidad and Tobago",
+        "continentName": "North America",
+        "capital": "Port of Spain",
+        "population": "1389858",
+        "areaInSqKm": "5128.0",
+        "languages": "en-TT,hns,fr,es,zh",
+        "currencyCode": "TTD",
+        "neighbours": []
+    },
+    "TV": {
+        "countryName": "Tuvalu",
+        "continentName": "Oceania",
+        "capital": "Funafuti",
+        "population": "11508",
+        "areaInSqKm": "26.0",
+        "languages": "tvl,en,sm,gil",
+        "currencyCode": "AUD",
+        "neighbours": []
+    },
+    "TW": {
+        "countryName": "Taiwan",
+        "continentName": "Asia",
+        "capital": "Taipei",
+        "population": "22894384",
+        "areaInSqKm": "35980.0",
+        "languages": "zh-TW,zh,nan,hak",
+        "currencyCode": "TWD",
+        "neighbours": []
+    },
+    "TZ": {
+        "countryName": "Tanzania",
+        "continentName": "Africa",
+        "capital": "Dodoma",
+        "population": "56318348",
+        "areaInSqKm": "945087.0",
+        "languages": "sw-TZ,en,ar",
+        "currencyCode": "TZS",
+        "neighbours": [
+            "BI",
+            "CD",
+            "KE",
+            "MW",
+            "MZ",
+            "RW",
+            "UG",
+            "ZM"
+        ]
+    },
+    "UA": {
+        "countryName": "Ukraine",
+        "continentName": "Europe",
+        "capital": "Kyiv",
+        "population": "44622516",
+        "areaInSqKm": "603700.0",
+        "languages": "uk,ru-UA,rom,pl,hu",
+        "currencyCode": "UAH",
+        "neighbours": [
+            "BY",
+            "HU",
+            "MD",
+            "PL",
+            "RO",
+            "RU",
+            "SK"
+        ]
+    },
+    "UG": {
+        "countryName": "Uganda",
+        "continentName": "Africa",
+        "capital": "Kampala",
+        "population": "42723139",
+        "areaInSqKm": "236040.0",
+        "languages": "en-UG,lg,sw,ar",
+        "currencyCode": "UGX",
+        "neighbours": [
+            "CD",
+            "KE",
+            "RW",
+            "SS",
+            "TZ"
+        ]
+    },
+    "UM": {
+        "countryName": "U.S. Outlying Islands",
+        "continentName": "Oceania",
+        "capital": "",
+        "population": "0",
+        "areaInSqKm": "0.0",
+        "languages": "en-UM",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "US": {
+        "countryName": "United States",
+        "continentName": "North America",
+        "capital": "Washington",
+        "population": "327167434",
+        "areaInSqKm": "9629091.0",
+        "languages": "en-US,es-US,haw,fr",
+        "currencyCode": "USD",
+        "neighbours": [
+            "CA",
+            "CU",
+            "MX"
+        ]
+    },
+    "UY": {
+        "countryName": "Uruguay",
+        "continentName": "South America",
+        "capital": "Montevideo",
+        "population": "3449299",
+        "areaInSqKm": "176220.0",
+        "languages": "es-UY",
+        "currencyCode": "UYU",
+        "neighbours": [
+            "AR",
+            "BR"
+        ]
+    },
+    "UZ": {
+        "countryName": "Uzbekistan",
+        "continentName": "Asia",
+        "capital": "Tashkent",
+        "population": "32955400",
+        "areaInSqKm": "447400.0",
+        "languages": "uz,ru,tg",
+        "currencyCode": "UZS",
+        "neighbours": [
+            "AF",
+            "KZ",
+            "KG",
+            "TJ",
+            "TM"
+        ]
+    },
+    "VA": {
+        "countryName": "Vatican City",
+        "continentName": "Europe",
+        "capital": "Vatican City",
+        "population": "921",
+        "areaInSqKm": "0.44",
+        "languages": "la,it,fr",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "IT"
+        ]
+    },
+    "VC": {
+        "countryName": "St Vincent and Grenadines",
+        "continentName": "North America",
+        "capital": "Kingstown",
+        "population": "110211",
+        "areaInSqKm": "389.0",
+        "languages": "en-VC,fr",
+        "currencyCode": "XCD",
+        "neighbours": []
+    },
+    "VE": {
+        "countryName": "Venezuela",
+        "continentName": "South America",
+        "capital": "Caracas",
+        "population": "28870195",
+        "areaInSqKm": "912050.0",
+        "languages": "es-VE",
+        "currencyCode": "VES",
+        "neighbours": [
+            "BR",
+            "CO",
+            "GY"
+        ]
+    },
+    "VG": {
+        "countryName": "British Virgin Islands",
+        "continentName": "North America",
+        "capital": "Road Town",
+        "population": "29802",
+        "areaInSqKm": "153.0",
+        "languages": "en-VG",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "VI": {
+        "countryName": "U.S. Virgin Islands",
+        "continentName": "North America",
+        "capital": "Charlotte Amalie",
+        "population": "106977",
+        "areaInSqKm": "352.0",
+        "languages": "en-VI",
+        "currencyCode": "USD",
+        "neighbours": []
+    },
+    "VN": {
+        "countryName": "Vietnam",
+        "continentName": "Asia",
+        "capital": "Hanoi",
+        "population": "95540395",
+        "areaInSqKm": "329560.0",
+        "languages": "vi,en,fr,zh,km",
+        "currencyCode": "VND",
+        "neighbours": [
+            "KH",
+            "CN",
+            "LA"
+        ]
+    },
+    "VU": {
+        "countryName": "Vanuatu",
+        "continentName": "Oceania",
+        "capital": "Port Vila",
+        "population": "292680",
+        "areaInSqKm": "12200.0",
+        "languages": "bi,en-VU,fr-VU",
+        "currencyCode": "VUV",
+        "neighbours": []
+    },
+    "WF": {
+        "countryName": "Wallis and Futuna",
+        "continentName": "Oceania",
+        "capital": "Mata-Utu",
+        "population": "16025",
+        "areaInSqKm": "274.0",
+        "languages": "wls,fud,fr-WF",
+        "currencyCode": "XPF",
+        "neighbours": []
+    },
+    "WS": {
+        "countryName": "Samoa",
+        "continentName": "Oceania",
+        "capital": "Apia",
+        "population": "196130",
+        "areaInSqKm": "2944.0",
+        "languages": "sm,en-WS",
+        "currencyCode": "WST",
+        "neighbours": []
+    },
+    "XK": {
+        "countryName": "Kosovo",
+        "continentName": "Europe",
+        "capital": "Pristina",
+        "population": "1845300",
+        "areaInSqKm": "10908.0",
+        "languages": "sq,sr",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AL",
+            "ME",
+            "MK",
+            "RS"
+        ]
+    },
+    "YE": {
+        "countryName": "Yemen",
+        "continentName": "Asia",
+        "capital": "Sanaa",
+        "population": "28498687",
+        "areaInSqKm": "527970.0",
+        "languages": "ar-YE",
+        "currencyCode": "YER",
+        "neighbours": [
+            "OM",
+            "SA"
+        ]
+    },
+    "YT": {
+        "countryName": "Mayotte",
+        "continentName": "Africa",
+        "capital": "Mamoudzou",
+        "population": "279471",
+        "areaInSqKm": "374.0",
+        "languages": "fr-YT",
+        "currencyCode": "EUR",
+        "neighbours": []
+    },
+    "ZA": {
+        "countryName": "South Africa",
+        "continentName": "Africa",
+        "capital": "Pretoria",
+        "population": "57779622",
+        "areaInSqKm": "1219912.0",
+        "languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
+        "currencyCode": "ZAR",
+        "neighbours": [
+            "BW",
+            "SZ",
+            "LS",
+            "MZ",
+            "NA",
+            "ZW"
+        ]
+    },
+    "ZM": {
+        "countryName": "Zambia",
+        "continentName": "Africa",
+        "capital": "Lusaka",
+        "population": "17351822",
+        "areaInSqKm": "752614.0",
+        "languages": "en-ZM,bem,loz,lun,lue,ny,toi",
+        "currencyCode": "ZMW",
+        "neighbours": [
+            "AO",
+            "CD",
+            "MW",
+            "MZ",
+            "NA",
+            "TZ",
+            "ZW"
+        ]
+    },
+    "ZW": {
+        "countryName": "Zimbabwe",
+        "continentName": "Africa",
+        "capital": "Harare",
+        "population": "14439018",
+        "areaInSqKm": "390580.0",
+        "languages": "en-ZW,sn,nr,nd",
+        "currencyCode": "ZWL",
+        "neighbours": [
+            "BW",
+            "MZ",
+            "ZA",
+            "ZM"
+        ]
+    }
+}
