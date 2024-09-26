@@ -1,0 +1,244 @@
+{
+  "RS": {
+    "countryName": "Serbia",
+    "continentName": "Europe",
+    "capital": "Belgrade",
+    "population": "6982084",
+    "areaInSqKm": "88361.0",
+    "languages": "sr,hu,bs,rom",
+    "currencyCode": "RSD",
+    "neighbours": [
+      "AL",
+      "BA",
+      "BG",
+      "HR",
+      "HU",
+      "ME",
+      "MK",
+      "RO"
+    ]
+  },
+   "AL": {
+        "countryName": "Albania",
+        "continentName": "Europe",
+        "capital": "Tirana",
+        "population": "2866376",
+        "areaInSqKm": "28748.0",
+        "languages": "sq,el",
+        "currencyCode": "ALL",
+        "neighbours": [
+            "GR",
+            "ME",
+            "MK",
+            "RS"
+        ]
+    },
+   "BA": {
+        "countryName": "Bosnia and Herzegovina",
+        "continentName": "Europe",
+        "capital": "Sarajevo",
+        "population": "3323929",
+        "areaInSqKm": "51129.0",
+        "languages": "bs,hr-BA,sr-BA",
+        "currencyCode": "BAM",
+        "neighbours": [
+            "HR",
+            "ME",
+            "RS"
+        ]
+    },
+    "BG": {
+        "countryName": "Bulgaria",
+        "continentName": "Europe",
+        "capital": "Sofia",
+        "population": "7000039",
+        "areaInSqKm": "110910.0",
+        "languages": "bg,tr-BG,rom",
+        "currencyCode": "BGN",
+        "neighbours": [
+            "GR",
+            "MK",
+            "RO",
+            "RS",
+            "TR"
+        ]
+    },
+   "HR": {
+        "countryName": "Croatia",
+        "continentName": "Europe",
+        "capital": "Zagreb",
+        "population": "4089400",
+        "areaInSqKm": "56542.0",
+        "languages": "hr-HR,sr",
+        "currencyCode": "HRK",
+        "neighbours": [
+            "BA",
+            "HU",
+            "ME",
+            "RS",
+            "SI"
+        ]
+    },
+    "HU": {
+        "countryName": "Hungary",
+        "continentName": "Europe",
+        "capital": "Budapest",
+        "population": "9768785",
+        "areaInSqKm": "93030.0",
+        "languages": "hu-HU",
+        "currencyCode": "HUF",
+        "neighbours": [
+            "AT",
+            "HR",
+            "RO",
+            "RS",
+            "SK",
+            "SI",
+            "UA"
+        ]
+    },
+    "ME": {
+        "countryName": "Montenegro",
+        "continentName": "Europe",
+        "capital": "Podgorica",
+        "population": "622345",
+        "areaInSqKm": "14026.0",
+        "languages": "sr,hu,bs,sq,hr,rom",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AL",
+            "BA",
+            "HR",
+            "RS"
+        ]
+    },
+    "MK": {
+        "countryName": "North Macedonia",
+        "continentName": "Europe",
+        "capital": "Skopje",
+        "population": "2082958",
+        "areaInSqKm": "25333.0",
+        "languages": "mk,sq,tr,rmm,sr",
+        "currencyCode": "MKD",
+        "neighbours": [
+            "AL",
+            "BG",
+            "GR",
+            "RS"
+        ]
+    },
+   "RO": {
+        "countryName": "Romania",
+        "continentName": "Europe",
+        "capital": "Bucharest",
+        "population": "19473936",
+        "areaInSqKm": "237500.0",
+        "languages": "ro,hu,rom",
+        "currencyCode": "RON",
+        "neighbours": [
+            "BG",
+            "HU",
+            "MD",
+            "RS",
+            "UA"
+        ]
+    },
+   "GR": {
+        "countryName": "Greece",
+        "continentName": "Europe",
+        "capital": "Athens",
+        "population": "10727668",
+        "areaInSqKm": "131940.0",
+        "languages": "el-GR,en,fr",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AL",
+            "BG",
+            "MK",
+            "TR"
+        ]
+    },
+    "TR": {
+        "countryName": "Turkey",
+        "continentName": "Asia",
+        "capital": "Ankara",
+        "population": "82319724",
+        "areaInSqKm": "780580.0",
+        "languages": "tr-TR,ku,diq,az,av",
+        "currencyCode": "TRY",
+        "neighbours": [
+            "BG",
+            "GR"
+        ]
+    },
+    "SI": {
+        "countryName": "Slovenia",
+        "continentName": "Europe",
+        "capital": "Ljubljana",
+        "population": "2067372",
+        "areaInSqKm": "20273.0",
+        "languages": "sl,sh",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AT",
+            "HR",
+            "HU"
+        ]
+    },
+   "UA": {
+        "countryName": "Ukraine",
+        "continentName": "Europe",
+        "capital": "Kyiv",
+        "population": "44622516",
+        "areaInSqKm": "603700.0",
+        "languages": "uk,ru-UA,rom,pl,hu",
+        "currencyCode": "UAH",
+        "neighbours": [
+            "HU",
+            "MD",
+            "RO",
+            "SK"
+        ]
+    },
+   "SK": {
+        "countryName": "Slovakia",
+        "continentName": "Europe",
+        "capital": "Bratislava",
+        "population": "5447011",
+        "areaInSqKm": "48845.0",
+        "languages": "sk,hu",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "AT",
+            "HU",
+            "UA"
+        ]
+    },
+   "AT": {
+        "countryName": "Austria",
+        "continentName": "Europe",
+        "capital": "Vienna",
+        "population": "8847037",
+        "areaInSqKm": "83858.0",
+        "languages": "de-AT,hr,hu,sl",
+        "currencyCode": "EUR",
+        "neighbours": [
+            "HU",
+            "SK",
+            "SI"
+        ]
+    },
+   "MD": {
+        "countryName": "Moldova",
+        "continentName": "Europe",
+        "capital": "Chișinău",
+        "population": "3545883",
+        "areaInSqKm": "33843.0",
+        "languages": "ro,ru,gag,tr",
+        "currencyCode": "MDL",
+        "neighbours": [
+            "RO",
+            "UA"
+        ]
+    }
+}
