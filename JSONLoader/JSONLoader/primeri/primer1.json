@@ -1,0 +1,203 @@
+[
+	{
+		"id": "0001",
+		"type": "donut",
+		"name": "Cake",
+		"ppu": 0.55,
+		"batters": {
+			"batter": [
+				{ "id": "1001", "type": "Regular" },
+				{ "id": "1002", "type": "Chocolate" },
+				{ "id": "1003", "type": "Blueberry" },
+				{ "id": "1004", "type": "Devil's Food" }
+			]
+		},
+		"topping": [
+			{ "id": "5001", "type": "None" },
+			{ "id": "5002", "type": "Glazed" },
+			{ "id": "5005", "type": "Sugar" },
+			{ "id": "5007", "type": "Powdered Sugar" },
+			{ "id": "5006", "type": "Chocolate with Sprinkles" },
+			{ "id": "5003", "type": "Chocolate" },
+			{ "id": "5004", "type": "Maple" }
+		]
+	},
+	{
+		"id": "0002",
+		"type": "donut",
+		"name": "Raised",
+		"ppu": 0.55,
+		"batters": {
+			"batter": [
+				{ "id": "1001", "type": "Regular" }
+			]
+		},
+		"topping": [
+			{ "id": "5001", "type": "None" },
+			{ "id": "5002", "type": "Glazed" },
+			{ "id": "5005", "type": "Sugar" },
+			{ "id": "5003", "type": "Chocolate" },
+			{ "id": "5004", "type": "Maple" }
+		]
+	},
+	{
+		"id": "0003",
+		"type": "donut",
+		"name": "Old Fashioned",
+		"ppu": 0.55,
+		"batters": {
+			"batter": [
+				{ "id": "1001", "type": "Regular" },
+				{ "id": "1002", "type": "Chocolate" }
+			]
+		},
+		"topping": [
+			{ "id": "5001", "type": "None" },
+			{ "id": "5002", "type": "Glazed" },
+			{ "id": "5003", "type": "Chocolate" },
+			{ "id": "5004", "type": "Maple" }
+		]
+	},
+	{
+		"id": "0004",
+		"type": "cookie",
+		"name": "Chocolate Chip",
+		"ppu": 1.25,
+		"batters": {
+			"batter": [
+				{ "id": "1010", "type": "Chocolate Base" }
+			]
+		},
+		"topping": [
+			{ "id": "6001", "type": "Chocolate Chips" },
+			{ "id": "6002", "type": "Caramel Drizzle" }
+		],
+		"fillings": [
+			{ "id": "7001", "type": "Caramel" },
+			{ "id": "7002", "type": "Peanut Butter" }
+		]
+	},
+	{
+		"id": "0005",
+		"type": "pastry",
+		"name": "Croissant",
+		"ppu": 1.75,
+		"batters": {
+			"batter": [
+				{ "id": "1020", "type": "Butter" }
+			]
+		},
+		"topping": [
+			{ "id": "5002", "type": "Glazed" },
+			{ "id": "5006", "type": "Chocolate with Sprinkles" }
+		],
+		"fillings": [
+			{ "id": "7003", "type": "Almond Paste" },
+			{ "id": "7004", "type": "Strawberry Jam" }
+		]
+	},
+	{
+		"id": "0006",
+		"type": "donut",
+		"name": "Jelly Filled",
+		"ppu": 1.00,
+		"batters": {
+			"batter": [
+				{ "id": "1005", "type": "Yeast" }
+			]
+		},
+		"topping": [
+			{ "id": "5001", "type": "None" },
+			{ "id": "5002", "type": "Glazed" },
+			{ "id": "5007", "type": "Powdered Sugar" }
+		],
+		"fillings": [
+			{ "id": "7005", "type": "Strawberry Jelly" },
+			{ "id": "7006", "type": "Raspberry Jelly" }
+		]
+	},
+	{
+		"id": "0007",
+		"type": "donut",
+		"name": "Bavarian Cream",
+		"ppu": 1.10,
+		"batters": {
+			"batter": [
+				{ "id": "1005", "type": "Yeast" }
+			]
+		},
+		"topping": [
+			{ "id": "5003", "type": "Chocolate" },
+			{ "id": "5004", "type": "Maple" }
+		],
+		"fillings": [
+			{ "id": "7007", "type": "Bavarian Cream" },
+			{ "id": "7008", "type": "Vanilla Custard" }
+		]
+	},
+	{
+		"id": "0008",
+		"type": "muffin",
+		"name": "Blueberry Muffin",
+		"ppu": 1.50,
+		"batters": {
+			"batter": [
+				{ "id": "1030", "type": "Blueberry" }
+			]
+		},
+		"topping": [
+			{ "id": "5005", "type": "Sugar" },
+			{ "id": "5002", "type": "Glazed" }
+		]
+	},
+	{
+		"id": "0009",
+		"type": "donut",
+		"name": "Sprinkles",
+		"ppu": 0.85,
+		"batters": {
+			"batter": [
+				{ "id": "1001", "type": "Regular" }
+			]
+		},
+		"topping": [
+			{ "id": "5006", "type": "Chocolate with Sprinkles" },
+			{ "id": "5009", "type": "Rainbow Sprinkles" }
+		]
+	},
+	{
+		"id": "0010",
+		"type": "cookie",
+		"name": "Oatmeal Raisin",
+		"ppu": 0.95,
+		"batters": {
+			"batter": [
+				{ "id": "1031", "type": "Oatmeal" }
+			]
+		},
+		"topping": [
+			{ "id": "6003", "type": "Raisins" },
+			{ "id": "6004", "type": "Cinnamon" }
+		]
+	},
+	{
+		"id": "0011",
+		"type": "pastry",
+		"name": "Danish",
+		"ppu": 2.00,
+		"batters": {
+			"batter": [
+				{ "id": "1040", "type": "Flaky Pastry" }
+			]
+		},
+		"topping": [
+			{ "id": "5001", "type": "None" },
+			{ "id": "5002", "type": "Glazed" }
+		],
+		"fillings": [
+			{ "id": "7009", "type": "Cream Cheese" },
+			{ "id": "7010", "type": "Apple Filling" },
+			{ "id": "7011", "type": "Cherry Filling" }
+		]
+	}
+]

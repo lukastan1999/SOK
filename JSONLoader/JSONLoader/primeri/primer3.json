@@ -1,0 +1,210 @@
+{
+  "id1": {
+    "Name": "John",
+    "Age": 45,
+    "Occupation": "Engineer",
+    "Children": [
+      {
+        "child1": {
+          "Name": "Mike",
+          "Age": 15,
+          "School": "High School",
+          "Hobbies": ["Soccer", "Video Games", "Reading"]
+        },
+        "child2": {
+          "Name": "Lucy",
+          "Age": 12,
+          "School": "Middle School",
+          "Hobbies": ["Painting", "Swimming"]
+        },
+        "child3": {
+          "Name": "Tom",
+          "Age": 8,
+          "School": "Elementary School",
+          "Hobbies": ["Lego", "Cartoons"]
+        }
+      }
+    ],
+    "Wife": {
+      "Name": "Angie",
+      "Age": 40,
+      "Occupation": "Teacher",
+      "Hobbies": ["Cooking", "Yoga", "Reading"],
+      "zvacu decu, decooooo, busi": ["child1", "child2", "child3"]
+    },
+    "House": {
+      "Address": {
+        "Street": "123 Maple Street",
+        "City": "Springfield",
+        "State": "IL",
+        "PostalCode": "62704",
+        "Country": "USA"
+      },
+      "Rooms": {
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "LivingRoom": true,
+        "Kitchen": true,
+        "Backyard": {
+          "HasPool": true,
+          "HasGarden": true
+        }
+      }
+    },
+    "Cars": [
+      {
+        "Car1": {
+          "Make": "Toyota",
+          "Model": "Camry",
+          "Year": 2020,
+          "LicensePlate": "ABC123"
+        }
+      },
+      {
+        "Car2": {
+          "Make": "Tesla",
+          "Model": "Model 3",
+          "Year": 2022,
+          "LicensePlate": "XYZ456"
+        }
+      }
+    ],
+    "Pets": [
+      {
+        "Pet1": {
+          "Name": "Buddy",
+          "Type": "Dog",
+          "Breed": "Golden Retriever",
+          "Age": 3,
+          "FavoriteFoods": ["Chicken", "Beef", "Carrots"]
+        }
+      },
+      {
+        "Pet2": {
+          "Name": "Whiskers",
+          "Type": "Cat",
+          "Breed": "Siamese",
+          "Age": 2,
+          "FavoriteFoods": ["Fish", "Tuna", "Milk"]
+        }
+      }
+    ]
+  },
+  "id2": {
+    "Name": "Sarah",
+    "Age": 37,
+    "Occupation": "Doctor",
+    "Children": [
+      {
+        "child1": {
+          "Name": "Emily",
+          "Age": 10,
+          "School": "Elementary School",
+          "Hobbies": ["Dance", "Piano"]
+        },
+        "child2": {
+          "Name": "James",
+          "Age": 7,
+          "School": "Elementary School",
+          "Hobbies": ["Drawing", "Cycling"]
+        }
+      }
+    ],
+    "Husband": {
+      "Name": "Mark",
+      "Age": 39,
+      "Occupation": "Software Developer",
+      "Hobbies": ["Photography", "Hiking"],
+      "FavoriteFoods": ["Pizza", "Sushi", "Salad"]
+    },
+    "House": {
+      "Address": {
+        "Street": "456 Oak Avenue",
+        "City": "San Diego",
+        "State": "CA",
+        "PostalCode": "92101",
+        "Country": "USA"
+      },
+      "Rooms": {
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "LivingRoom": true,
+        "Kitchen": true,
+        "Backyard": {
+          "HasPool": false,
+          "HasGarden": true
+        }
+      }
+    },
+    "Cars": [
+      {
+        "Car1": {
+          "Make": "Honda",
+          "Model": "Accord",
+          "Year": 2018,
+          "LicensePlate": "LMN789"
+        }
+      }
+    ],
+    "Pets": [
+      {
+        "Pet1": {
+          "Name": "Shadow",
+          "Type": "Dog",
+          "Breed": "German Shepherd",
+          "Age": 4,
+          "FavoriteFoods": ["Beef", "Chicken", "Sweet Potatoes"]
+        }
+      }
+    ]
+  },
+  "id3": {
+    "Name": "Michael",
+    "Age": 50,
+    "Occupation": "Lawyer",
+    "Children": [],
+    "Wife": {
+      "Name": "Laura",
+      "Age": 48,
+      "Occupation": "Architect",
+      "Hobbies": ["Running", "Traveling"]
+    },
+    "House": {
+      "Address": {
+        "Street": "789 Pine Road",
+        "City": "Seattle",
+        "State": "WA",
+        "PostalCode": "98101",
+        "Country": "USA"
+      },
+      "Rooms": {
+        "Bedrooms": 2,
+        "Bathrooms": 2,
+        "LivingRoom": true,
+        "Kitchen": true,
+        "Balcony": true
+      }
+    },
+    "Cars": [
+      {
+        "Car1": {
+          "Make": "BMW",
+          "Model": "X5",
+          "Year": 2021,
+          "LicensePlate": "GHI012"
+        }
+      }
+    ],
+    "Pets": [
+      {
+        "Pet1": {
+          "Name": "Max",
+          "Type": "Dog",
+          "Breed": "Bulldog",
+          "Age": 5,
+          "FavoriteFoods": ["Chicken", "Turkey", "Rice"]
+        }
+      }
+    ]
+  }
+}
