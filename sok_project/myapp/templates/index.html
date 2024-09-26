@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
+	<head>
+		<meta charset="UTF-8">
+		{% load static %}
+		<script type="text/javascript" src="https://d3js.org/d3.v3.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
+		<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+		<link rel="stylesheet" type="text/css" href="{% static 'betterLook.css' %}">
+
+		<script src="{% static 'selectVertex.js' %}"></script>
+
+		<title>Vizuelizacija grafa</title>
+	</head>
 
 	<body>
 		<div class="page">
@@ -51,24 +59,7 @@
 
 					</div>
 				</div>
-				<div class="searchAndFilter">
-					<div class="pretragaForme">
-						<form action="{% url 'search_graph' %}" method="post" onsubmit="return validateSearch()" class="forma1">
-							{% csrf_token %}
 
-							<span class="podnaslov">Pretraga</span>
-							<table >
-								<tr>
-									<td> <input type="text" placeholder="Unesite atribute za pretragu..." size=40 id="searchPolje" name="searchPolje" /> </td>
-								</tr>
-								<tr>
-									<td><input class="button" type="submit"  name="search" value="SEARCH"  style="width:150px" /> </td>
-								</tr>
-							</table>
-						</form>
-
-					</div>
-				</div>
 				<div class="views">
 					<span class="podnaslov">Vizuelizacija</span>
 					<form action="{% url 'load_view_plugin' %}" method="post">
@@ -117,6 +108,53 @@
 
 			</div>
 
+			<script text="javascript">
+				var toggler = document.getElementsByClassName("list");
+
+				for (var i = 0; i < toggler.length; i++) {
+					toggler[i].addEventListener("click", callback);
+				}
+
+
+				function callback(event){
+					var el = event.target;
+					var id = el.getAttribute("id");
+
+					var temp;
+					var add="";
+					{% for node in config.graph.vertices %}
+						temp = "{{node.Id}}"
+					  	if(temp == id){
+							    var item = document.getElementById(id).getElementsByTagName('ul')[0];
+								console.log(item);
+								if(item.innerHTML.trim() == ""){
+									{% for atr, value in node.attributes.items %}
+										add += "<li style='color:green;'>{{atr}}:{{value|slice:':20'}}</li>";
+									{% endfor %}
+									{% for v in node.neighbors %}
+										add += "<li onclick='callback()' class='list' id={{v.Id}}>{{v.name}}" +
+										"<ul id='list{{v.Id}}'></ul></li>";
+									{% endfor %}
+								}
+								else{
+									isHidden = item.style.display == "none";
+									if (isHidden) {
+										item.style.display = "block";
+										selectVertex(id);
+
+								  } else {
+										item.style.display = "none";
+										deSelectVertex(id);
+								  }
+								}
+							}
+					{% endfor %}
+
+					document.getElementById("list"+id).innerHTML=add;
+
+				}
+
+			</script>
 
 			<div class="center">
 				<svg width='100%' height='100%' id='svgMain'>
@@ -138,6 +176,7 @@
 						<g id="nodesMain"></g>
 					</g>
 						<rect width=300 height=205 style="fill:#969aadf0;"></rect>
+
 				</svg>
 				{% block content %}
 				{% if config.currentViewPluginHtml %}
@@ -146,13 +185,11 @@
 				{% endblock %}
 
 
-
 			</div>
 
 		</div>
 
+		 <script src="{% static 'searchFilterValidation.js' %}"></script>
+		 <script src="{% static 'loadDataPluginValidation.js' %}"></script>
 	</body>
-
-
-
 </html>
