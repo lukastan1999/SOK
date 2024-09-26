@@ -1,0 +1,3 @@
+[data_load]
+loader_json = JsonFileLoader.JsonFileLoader:JsonFileLoader
+

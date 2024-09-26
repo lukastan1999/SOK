@@ -1,0 +1,10 @@
+setup.py
+JsonFileLoader/JsonFileLoader.py
+JsonFileLoader/__init__.py
+JsonFileLoader.egg-info/PKG-INFO
+JsonFileLoader.egg-info/SOURCES.txt
+JsonFileLoader.egg-info/dependency_links.txt
+JsonFileLoader.egg-info/entry_points.txt
+JsonFileLoader.egg-info/requires.txt
+JsonFileLoader.egg-info/top_level.txt
+JsonFileLoader.egg-info/zip-safe

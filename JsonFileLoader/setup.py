@@ -9,8 +9,5 @@ setup(
         'data_load':
             ['loader_json=JsonFileLoader.JsonFileLoader:JsonFileLoader'],
     },
-    data_files=[('test_data', ['loader_json/test_data/primer1.json',
-                               'loader_json/test_data/primer2.json',
-                               'loader_json/test_data/primer3.json'])],
     zip_safe=True
 )
