@@ -1,7 +1,7 @@
-from core.services.services import ViewBase
+from core.services.services import ViewRenderer
 
 
-class AdvancedView(ViewBase):
+class AdvancedView(ViewRenderer):
 
     def get_id(self):
         return "2"

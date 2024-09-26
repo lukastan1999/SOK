@@ -6,8 +6,7 @@
 		<script type="text/javascript" src="https://d3js.org/d3.v3.js"></script>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
-		<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
-		<link rel="stylesheet" type="text/css" href="{% static 'betterLook.css' %}">
+		<link rel="stylesheet" type="text/css" href="{% static 'css.css' %}">
 
 		<script src="{% static 'selectVertex.js' %}"></script>
 
@@ -19,14 +18,14 @@
 			<div class="header">
 				<div class="ucitavanje">
 					<div class="data">
-						<form action="{% url 'load_data_plugin' %}" method="post" onsubmit="return validateDataPlugin()">
+						<form action="{% url 'load_data_plugin' %}" method="post" onsubmit="return pluginDataValidation()">
 							{% csrf_token %}
 					<span class="podnaslov">Učitavanje</span>
 							<table>
 								<tr>
 									<td>Izaberite izvor:</td>
 									<td>
-										<select id="izvorSelect" name="izvorSelect" onchange="checkIfFajlSelected()">
+										<select id="izvorSelect" name="izvorSelect" onchange="fileSelectionChanged()">
 											<option value="fajl" selected>Fajl sistem</option>
 											<option value="url">Url adresa</option>
 										</select>
@@ -59,7 +58,7 @@
 
 					</div>
 				</div>
-
+				
 				<div class="views">
 					<span class="podnaslov">Vizuelizacija</span>
 					<form action="{% url 'load_view_plugin' %}" method="post">
@@ -176,20 +175,18 @@
 						<g id="nodesMain"></g>
 					</g>
 						<rect width=300 height=205 style="fill:#969aadf0;"></rect>
-
 				</svg>
 				{% block content %}
 				{% if config.currentViewPluginHtml %}
 					{{ config.currentViewPluginHtml | safe }}
 				{% endif %}
 				{% endblock %}
-
+            
 
 			</div>
 
 		</div>
 
-		 <script src="{% static 'searchFilterValidation.js' %}"></script>
-		 <script src="{% static 'loadDataPluginValidation.js' %}"></script>
+		 <script src="{% static 'plugin.js' %}"></script>
 	</body>
 </html>

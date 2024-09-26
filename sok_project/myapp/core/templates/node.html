@@ -1,0 +1,12 @@
+<li><span class="caret">{{r.name}}</span>
+        <ul class="nested">
+        {% for v in r.neighbors %}
+            {% if r in v.neighbors %}
+                {% assign first v %}
+                {% assign second r %}
+            {% with r=v template_name="node.html" %}
+                    {% include template_name %}
+            {% endwith %}
+        {% endfor %}
+        </ul>
+</li>

@@ -1,6 +1,6 @@
-from core.services.services import ViewBase
+from core.services.services import ViewRenderer
 
-class BasicVisualizer(ViewBase):
+class BasicVisualizer(ViewRenderer):
 
     def load_view(self, graph) -> str:
         visualization_script = self._generate_script(graph)

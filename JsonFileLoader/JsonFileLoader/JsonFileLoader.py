@@ -1,17 +1,17 @@
 from core.models import Graph
-from core.services.services import LoadBase
+from core.services.services import DataLoader
 import json
 import re
 from dateutil.parser import parse
 from datetime import datetime
 
 
-class JsonFileLoader(LoadBase):
+class JsonFileLoader(DataLoader):
 
     def __init__(self):
         self._id_counter = 0
         self._vertices_map = {}
-        self._id_matcher = re.compile(r"(id|identifier)[0-9]?")
+        self._id_matcher = re.compile(r"(id|get_identifier)[0-9]?")
         self._doc_id_to_internal_id = {}
         self._explicit_links = {}
         self._inferred_links = {}
@@ -156,7 +156,7 @@ class JsonFileLoader(LoadBase):
         vertex = self._create_vertex(node_id)
         vertex.add_attribute("value", parsed_value)
 
-    def identifier(self):
+    def get_identifier(self):
         return "JsonFileLoader"
 
     def name(self):
